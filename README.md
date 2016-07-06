@@ -27,7 +27,7 @@
 
 #### [Sara Soueidan](https://sarasoueidan.com/)
 
-2015 net awards(net杂志的年度颁奖盛典)的[年度开发者](https://thenetawards.com/longlist/developer/)，2015 O’Reilly Web Platform Awards（O'Reilly，著名的IT图书出版机构）,著名的前端开发者、作者、演讲者，主要关注HTML5, SVG, CSS and JavaScript。
+2015 net awards(net杂志的年度颁奖盛典)的[年度开发者](https://thenetawards.com/longlist/developer/)，2015 O’Reilly Web Platform Awards（O'Reilly，著名的IT图书出版机构）,著名的前端开发者、作者、演讲者，主要关注HTML5, SVG, CSS and JavaScript等。
 
 联系方式：
 [Github](https://github.com/SaraSoueidan)
@@ -61,7 +61,31 @@
 [Github](https://github.com/LeaVerou)
 [Dribbble](http://dribbble.com/LeaVerou)
 
-#### 
+-------------------
+
+#### [Paul Irish](http://paulirish.com)
+
+谷歌Chrome团队前端工程师，主要关注开发者工具，是[Modernizr](http://modernizr.com)、[Yeoman](http://yeoman.io)、[CSS3 Please](http://css3please.com)、[HTML5 Boilerplate](http://html5boilerplate.com)等工具的开发者，合作开发了诸多项目，详情了解他的[About](http://www.paulirish.com/about/)。
+
+联系方式：
+[Twitter](http://twitter.com/paul_irish)
+[Github](https://github.com/paulirish/)
+[Google+](http://paulirish.com/+)
+请在个人主页[contact](http://www.paulirish.com/contact-me/)联系他。
+
+-------------------
+
+#### [John Resig](http://ejohn.org/)
+
+[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+
+联系方式：
+[Twitter](http://twitter.com/jeresig)
+[Github](https://github.com/jeresig)
+[邮箱](jeresig@gmail.com)
+请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)
+
+-------------------
 
 
 ### 1.2 国内大神
