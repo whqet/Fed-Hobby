@@ -17,11 +17,11 @@
 [Codepen](http://codepen.io/)创始人，[css-tricks](http://css-tricks.com/)站长。
 
 联系方式：
-[CodePen](//codepen.io/chriscoyier)
-[Dribbble](//dribbble.com/chriscoyier) 
-[Twitter](//twitter.com/chriscoyier) 
-[GitHub](//github.com/chriscoyier)
-[Instagram](//instagram.com/chriscoyier) |
+[CodePen](//codepen.io/chriscoyier)、
+[Dribbble](//dribbble.com/chriscoyier)、
+[Twitter](//twitter.com/chriscoyier)、
+[GitHub](//github.com/chriscoyier)、
+[Instagram](//instagram.com/chriscoyier)
 
 -------------------
 
@@ -30,12 +30,12 @@
 2015 net awards(net杂志的年度颁奖盛典)的[年度开发者](https://thenetawards.com/longlist/developer/)，2015 O’Reilly Web Platform Awards（O'Reilly，著名的IT图书出版机构）,著名的前端开发者、作者、演讲者，主要关注HTML5, SVG, CSS and JavaScript等。
 
 联系方式：
-[Github](https://github.com/SaraSoueidan)
-[Codrops](http://tympanus.net/codrops/author/sarasoueidan/)
-[A List Apart](http://alistapart.com/author/SaraSoueidan)
-[Dev.Opera](https://dev.opera.com/authors/sara-soueidan/)
-[Twitter](http://twitter.com/SaraSoueidan)
-[Google+](https://plus.google.com/115621441131126533845/posts) |
+[Github](https://github.com/SaraSoueidan)、
+[Codrops](http://tympanus.net/codrops/author/sarasoueidan/)、
+[A List Apart](http://alistapart.com/author/SaraSoueidan)、
+[Dev.Opera](https://dev.opera.com/authors/sara-soueidan/)、
+[Twitter](http://twitter.com/SaraSoueidan)、
+[Google+](https://plus.google.com/115621441131126533845/posts)
 
 ------------------
 
@@ -44,9 +44,9 @@
 知名的SASS专家，2015 net awards(net杂志的年度颁奖盛典)的[年度开发者](https://thenetawards.com/longlist/developer/)。法国人，现居德国柏林。
 
 联系方式：
-[Github](https://github.com/HugoGiraudel)
-[Twitter](http://twitter.com/HugoGiraudel)
-[Sitepoint](https://www.sitepoint.com/author/hgiraudel/)
+[Github](https://github.com/HugoGiraudel)、
+[Twitter](http://twitter.com/HugoGiraudel)、
+[Sitepoint](https://www.sitepoint.com/author/hgiraudel/)、
 [Google+](https://plus.google.com/101697878480386449961)
 
 -------------------
@@ -56,9 +56,9 @@
 网页设计师、前端开发者、技术极客、演讲家、作家，麻省理工学院计算机与人工智能实验室助理研究员，《CSS Secrets》作者，prefixfree.js作者，在世界各地进行过60多次演讲，[简历](http://lea.verou.me/cv.html)。希腊人，现居美国马萨诸塞州剑桥市（大波士顿地区）。
 
 联系方式：
-[Twitter](http://twitter.com/leaverou)
-[Facebook](http://www.facebook.com/leaverou)
-[Github](https://github.com/LeaVerou)
+[Twitter](http://twitter.com/leaverou)、
+[Facebook](http://www.facebook.com/leaverou)、
+[Github](https://github.com/LeaVerou)、
 [Dribbble](http://dribbble.com/LeaVerou)
 
 -------------------
@@ -68,10 +68,10 @@
 谷歌Chrome团队前端工程师，主要关注开发者工具，是[Modernizr](http://modernizr.com)、[Yeoman](http://yeoman.io)、[CSS3 Please](http://css3please.com)、[HTML5 Boilerplate](http://html5boilerplate.com)等工具的开发者，合作开发了诸多项目，详情了解他的[About](http://www.paulirish.com/about/)。
 
 联系方式：
-[Twitter](http://twitter.com/paul_irish)
-[Github](https://github.com/paulirish/)
-[Google+](http://paulirish.com/+)
-请在个人主页[contact](http://www.paulirish.com/contact-me/)联系他。
+[Twitter](http://twitter.com/paul_irish)、
+[Github](https://github.com/paulirish/)、
+[Google+](http://paulirish.com/+)，
+*请在个人主页[contact](http://www.paulirish.com/contact-me/)联系他。*
 
 -------------------
 
@@ -83,9 +83,11 @@
 [Twitter](http://twitter.com/jeresig)
 [Github](https://github.com/jeresig)
 [邮箱](jeresig@gmail.com)
-请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)
+*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
 
 -------------------
+
+
 
 
 ### 1.2 国内大神
