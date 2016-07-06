@@ -111,37 +111,36 @@
 [Facebook](https://facebook.com/davidwalshblog)、
 [Linkedin](https://linkedin.com/in/davidjameswalsh)、
 [Github](https://github.com/darkwing)、
-[Google+](https://plus.google.com/114538814489633467974?rel=author)
+[Google+](https://plus.google.com/114538814489633467974?rel=author)、
 [邮箱](david@davidwalsh.name)
 *[联系页面](https://davidwalsh.name/contact)联系他*
 
 -------------------
 
+
+#### [Zeno Rocha(https://zenorocha.com/)
+
+[Liferay](https://www.liferay.com/)开发主管，Google技术专家，[clipboard.js](https://github.com/zenorocha/clipboard.js)、[browser-diet](https://github.com/zenorocha/browser-diet)等项目开发者。巴西人，现居加拿大。
+
+联系方式：
+[Twitter](https://twitter.com/zenorocha)、
+[Github](https://github.com/zenorocha)、
+[邮箱](hi@zenorocha.com)
+
+-------------------
+
+#### [Thomas Fuchs](http://mir.aculo.us/)
+
+[Zepto.js](http://zeptojs.com/)、[keymaster](https://github.com/madrobby/keymaster)等项目作者。
+
+联系方式：
+[Twitter](http://twitter.com/thomasfuchs)
+[Github](https://github.com/madrobby)
+邮箱：thomas@fesch.at或thomas@slash7.com
+
+-------------------
+
 ok
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
 
 #### [John Resig](http://ejohn.org/)
 
