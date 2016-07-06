@@ -164,6 +164,8 @@ Github设计主管，[Bootstrap](http://getbootstrap.com/)作者。
 
 -------------------
 
+ok
+
 #### [John Resig](http://ejohn.org/)
 
 [jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
