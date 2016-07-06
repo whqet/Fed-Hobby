@@ -118,7 +118,7 @@
 -------------------
 
 
-#### [Zeno Rocha(https://zenorocha.com/)
+#### [Zeno Rocha](https://zenorocha.com/)
 
 [Liferay](https://www.liferay.com/)开发主管，Google技术专家，[clipboard.js](https://github.com/zenorocha/clipboard.js)、[browser-diet](https://github.com/zenorocha/browser-diet)等项目开发者。巴西人，现居加拿大。
 
@@ -140,29 +140,27 @@
 
 -------------------
 
-ok
+#### [Hampton Catlin](http://www.hamptoncatlin.com/)
 
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+[SASS](http://sass-lang.com/)、[Haml](http://haml-lang.com/)、libsass、SassC等项目作者。[Responsive Web Design For Teams ](http://www.responsivewebdesignforteams.com/)图书作者。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](http://www.twitter.com/hcatlin)、
+[Github](https://github.com/hcatlin)、
+邮箱：hcatlin@gmail.com或contact@hamptoncatlin.com
 
 -------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [Mark Otto](http://mdo.fm/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+Github设计主管，[Bootstrap](http://getbootstrap.com/)作者。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](https://twitter.com/mdo)、
+[Github](https://github.com/mdo)、
+[Dribble](https://dribbble.com/mdo)、
+[blog](http://markdotto.com/)、
+邮箱：markdotto@gmail.com、或是[github]上[提问](https://github.com/mdo/ama)。
 
 -------------------
 
