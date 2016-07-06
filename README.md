@@ -9,11 +9,21 @@
 
 ### 国际牛人
 
-| 大神     | 简介           | 联系方式  |
-| :----  |:--------| :-----|
-| [Chris Coyier](http://chriscoyier.net/) | [Codepen](http://codepen.io/)创始人，[css-tricks](http://css-tricks.com/)站长。 | [CodePen](//codepen.io/chriscoyier)[Dribbble](//dribbble.com/chriscoyier)[Twitter](//twitter.com/chriscoyier)[GitHub](//github.com/chriscoyier)[Instagram](//instagram.com/chriscoyier) |
-| [Sara Soueidan](https://sarasoueidan.com/) | 2015 net awards(net杂志的年度颁奖盛典)的[年度开发者](https://thenetawards.com/longlist/developer/)，2015 O’Reilly Web Platform Awards（O'Reilly，著名的IT图书出版机构）,著名的前端开发者、作者、演讲者，主要关注HTML5, SVG, CSS and JavaScript。 | [Github](https://github.com/SaraSoueidan)[Codrops](http://tympanus.net/codrops/author/sarasoueidan/)[A List Apart](http://alistapart.com/author/SaraSoueidan)[Dev.Opera](https://dev.opera.com/authors/sara-soueidan/)[Twitter](http://twitter.com/SaraSoueidan)[Google+](https://plus.google.com/115621441131126533845/posts) |
+[Chris Coyier](http://chriscoyier.net/)
 
+[Codepen](http://codepen.io/)创始人，[css-tricks](http://css-tricks.com/)站长。
+
+[CodePen](//codepen.io/chriscoyier)[Dribbble](//dribbble.com/chriscoyier)[Twitter](//twitter.com/chriscoyier)[GitHub](//github.com/chriscoyier)[Instagram](//instagram.com/chriscoyier) |
+
+-------------------
+
+[Sara Soueidan](https://sarasoueidan.com/)
+
+2015 net awards(net杂志的年度颁奖盛典)的[年度开发者](https://thenetawards.com/longlist/developer/)，2015 O’Reilly Web Platform Awards（O'Reilly，著名的IT图书出版机构）,著名的前端开发者、作者、演讲者，主要关注HTML5, SVG, CSS and JavaScript。
+
+[Github](https://github.com/SaraSoueidan)[Codrops](http://tympanus.net/codrops/author/sarasoueidan/)[A List Apart](http://alistapart.com/author/SaraSoueidan)[Dev.Opera](https://dev.opera.com/authors/sara-soueidan/)[Twitter](http://twitter.com/SaraSoueidan)[Google+](https://plus.google.com/115621441131126533845/posts) |
+
+------------------
 
 
 ### 国内牛人
