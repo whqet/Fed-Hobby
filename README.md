@@ -82,7 +82,7 @@
 联系方式：
 [Twitter](http://twitter.com/jeresig)、
 [Github](https://github.com/jeresig)、
-[邮箱](jeresig@gmail.com)
+邮箱:jeresig@gmail.com
 *请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
 
 -------------------
@@ -98,7 +98,7 @@
 [Linkedin](http://www.linkedin.com/in/codylindley)、
 [Github](https://github.com/codylindley)、
 [Google+](http://www.google.com/profiles/codylindley)
-[邮箱](contact@codylindley.com)
+邮箱:contact@codylindley.com
 
 -------------------
 
@@ -112,7 +112,7 @@
 [Linkedin](https://linkedin.com/in/davidjameswalsh)、
 [Github](https://github.com/darkwing)、
 [Google+](https://plus.google.com/114538814489633467974?rel=author)、
-[邮箱](david@davidwalsh.name)
+邮箱:david@davidwalsh.name
 *[联系页面](https://davidwalsh.name/contact)联系他*
 
 -------------------
@@ -307,6 +307,252 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 
 ### 1.2 国内大神
 
+#### [玉伯](https://github.com/lifesinger/blog/issues)
+
+玉伯（王保平），淘宝前端类库 KISSY、前端模块化开发框架SeaJS、前端基础类库Arale的创始人。2003-2006 年，中科院物理所研究生，Fortran 与 C 程序员，喜爱实验模拟和数值计算。 2006-2008 年，在中科院软件所互联网实验室从事项目管理软件的研发，C# 与 Java 爱好者。 2008 年 4 月份加入淘宝，就职于 UED 部门。2009 年起，组建前端架构团队，在首页维护、全网性能优化、类库研发、知识沉淀、工具应用等方面取得了丰硕成果。
+
+联系方式：
+[微博](http://weibo.com/lifesinger)、
+[知乎](https://www.zhihu.com/people/lifesinger)、
+[Github](https://github.com/lifesinger)、
+邮箱：lifesinger@gmail.com
+
+--------------------------
+
+#### [阮一峰](http://www.ruanyifeng.com/blog/)
+
+70后，在上海出生和长大，大学读经济学。工作了几年，又去读了世界经济的研究生，毕业后，在上海一所本地高校当了老师，教财经类的课程。最近，去了支付宝的前端团队，在玉伯负责的"体验技术部"工作，目前主要从事JavaScript和Node.js的开发。
+
+联系方式：
+[微博](http://weibo.com/ruanyf)、
+[Github](https://github.com/ruanyf)、
+[Twitter](https://twitter.com/ruanyf)、
+邮箱：yifeng.ruan@gmail.com
+
+--------------------------
+
+#### [司徒正美](http://www.cnblogs.com/rubylouvre/)
+
+钟钦成，网名司徒正美，著名的Java专家，去哪儿网前端架构师，立志做考古学家的日语系工程师，穿梭于二次元与二进制间的“魔法师”，做过陶艺，写过小说，涉猎Java、Ruby、 Java。曾出版《Java框架设计》一书。
+
+联系方式:
+[微博](http://weibo.com/jslouvre)、
+[知乎](https://www.zhihu.com/people/si-tu-zheng-mei)、
+[Github](https://github.com/RubyLouvre)、
+邮箱:cheng19840218@gmail.com
+
+--------------------------
+
+#### [朴灵](http://diveintonode.org/)
+
+朴灵，真名田永强，文艺型码农，Node.js布道者。现就职于阿里巴巴数据平台，任资深工程师，著有《深入浅出Node.js》。他活跃于CNode社区，是线下会议NodeParty的组织者，同时也是JSConf China（沪JS、京JS，以及杭JS）的组织者之一。朴灵热爱开源，是多个Node.js模块的作者。[前端技能汇总](https://github.com/JacksonTian/fks)项目star7000+。
+
+联系方式：
+[微博](http://weibo.com/shyvo)、
+[知乎](https://www.zhihu.com/people/po-ling)、
+[Github](https://github.com/JacksonTian)、
+邮箱:shyvo1987@gmail.com
+
+--------------------------
+
+#### [贺师俊](http://johnhax.net/)
+
+贺师俊，网名 Hax，有年头的 Web 开发者。信仰 Web 标准，HTML 纯化论者 +CSS 理想主义者 +JavaScript 改革派 +REST 信徒。 他致力于构建真正实践互联网开放理念的 Web 产品，并平衡需求、技术和人性因素。所以在写代码以外，他还热切的关注可用性、无障碍性乃至更广泛意义上的用户体验（譬如售后服务）。 作为一个坚持己见的人，Hax 因犀利的技术批评为人所知，其拍砖对象下到写书神棍上至业界权威，中间亦包括他的同事和朋友——因为他深信正直坦诚是技术人员必须坚守的美德，并希望通过自由而热烈的讨论推动技术社群不断成长、永葆活力。 Hax 毕业于复旦大学，感兴趣的领域除了 Web 标准、协议、架构以及与 Web 相关的各种具体技术之外，还包括交互设计、编程语言和方法论，最近则迷上了字体和排版。
+
+联系方式：
+[微博](http://weibo.com/haxy)、
+[Twitter](https://twitter.com/haxy)、
+[知乎](https://www.zhihu.com/people/he-shi-jun)、
+[Github](https://github.com/hax)、
+邮箱：johnhax@gmail.com
+
+---------------------------
+
+#### [CSS魔法](http://www.cssmagic.net/)
+
+百姓网前端架构师，《CSS 揭秘》译者，微信公众号和微博都叫*CSS魔法*。
+
+联系方式：
+[微博](http://weibo.com/cssmagic)、
+[Twitter](https://twitter.com/cssmagic)、
+[知乎](http://www.zhihu.com/people/cssmagic)、
+[Github](https://github.com/cssmagic)、
+
+--------------------------
+
+#### [徐涛]()
+
+
+
+---------------------------
+
+#### [廖雪峰](http://www.liaoxuefeng.com/)
+
+技术作家，著有《Spring 2.0核心技术与最佳实践》,号称史上最浅显易懂的[Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)。
+
+联系方式:
+[微博](http://weibo.com/liaoxuefeng)、
+[知乎](https://www.zhihu.com/people/liaoxuefeng)、
+[Github](https://github.com/michaelliao)、
+邮箱：askxuefeng@gmail.com
+
+---------------------------
+
+#### [勾三股四](http://jiongks.name/)
+
+
+---------------------------
+
+#### [张鑫旭]()
+
+
+
+---------------------------
+
+####  裕波
+
+[w3ctech.com](http://www.w3ctech.com/)发起人。
+
+---------------------------
+
+#### 大漠
+
+---------------------------
+
+#### 颜海镜
+
+---------------------------
+
+#### 杜瑶
+
+---------------------------
+
+#### 一丝
+
+---------------------------
+
+#### [迷渡](http://justjavac.com/)
+
+
+联系方式:
+[微博](http://weibo.com/justjavac)、
+[知乎](http://www.zhihu.com/people/justjavac.com)、
+[Github](https://github.com/justjavac)、
+[Segmentfault](http://segmentfault.com/u/justjavac)、
+[Stackoverflow](http://stackoverflow.com/users/343194/justjavac)、
+justjavac@gmail.com
+
+----------------------------
+
+
+#### 神飞
+
+[个人主页](//www.qianduan.net),爱好前端设计与开发，崇尚一目了然的设计。现居深圳/广州，就职于腾讯微信设计团队。
+
+联系方式：
+[Twitter](http://twitter.com/qianduan)
+
+邮件联系admin@qianduan.net
+
+---------------------------
+
+#### 赵雷
+![赵雷](https://avatars1.githubusercontent.com/u/157338?v=3&s=460)
+
+百度资深研发工程师, [个人主页](http://zhaolei.info/), [微博](http://weibo.com/firede), [Github](https://github.com/firede)，可以微博私信他访谈。
+
+
+[个人主页](//mingelz.com/)
+[Github](//github.com/mingelz)
+
+### 15. 黄子毅
+
+[邮箱](576625322@qq.com)
+[个人主页](http://www.wokugame.com/)
+
+
+### 16. 吴多益
+
+[个人主页](http://wuduoyi.com/)，百度前端团队成员，FEX 团队负责人。
+
+联系方式：
+[Github](https://github.com/nwind/)
+[Twitter](http://twitter.com/nwind/)
+[微博](http://weibo.com/nwind/)
+[知乎](https://www.zhihu.com/people/wuduoyi)
+
+### 17. 小芋头君
+
+[个人主页](http://www.html-js.com)，[大搜车前端](http://f2e.souche.com/blog/)负责人，颜文字app作者，[前端乱炖](http://www.html-js.com/)创始人。
+
+联系方式：
+[微博](http://weibo.com/676588498)
+[知乎](https://www.zhihu.com/people/li-shou-xin)
+[Github](https://github.com/xinyu198736)
+[邮箱](xinyu198736@gmail.com)
+
+### 18. 林建锋（sofish）
+
+林建锋(小鱼)[个人主页](https://sofi.sh/)，国内资深前端开发工程师，Web 标准布道者，前支付宝前端开发部 CSS 样式库负责人。Trimidea 创始人，目前就职饿了么。
+
+联系方式：
+[微博](http://weibo.com/sofish)
+[知乎](https://www.zhihu.com/people/sofish)
+[Github](https://github.com/sofish)
+[邮箱](sofish@icloud.com)
+
+
+### 19.尤小右
+![尤小右](https://avatars3.githubusercontent.com/u/499550?v=3&s=460)
+
+[个人主页](http://evanyou.me/),本名尤雨溪，目前在 Google Creative Lab 就职。vue.js 项目作者。
+
+联系方式：
+[微博](http://weibo.com/arttechdesign)
+[知乎](https://www.zhihu.com/people/evanyou)
+[Twitter](https://twitter.com/youyuxi)
+[Github](https://github.com/yyx990803)
+
+
+### 20.聂微东
+
+### 21.寒冬winter 
+
+[寒冬winter ](http://winter-cn.cnblogs.com/)，本名程劭非，花名寒泉，前端工程师，JavaScript 专家。江湖人称“计算机之子”。先后在微软，盛大，阿里巴巴工作，目前是手机淘宝前端 leader。
+
+联系方式：
+[微博](http://weibo.com/wintercn)
+[Github](https://github.com/wintercn)
+[邮箱](csf178@gmail.com)
+
+### 22.周文斌
+
+### 23.薛端阳
+
+### 24.yiminghe
+![yiminghe](https://avatars2.githubusercontent.com/u/200876?v=3&s=460)
+
+[个人主页](http://yiminghe.me/)
+
+### 25.张云龙
+
+### 26.尚左 mingelz
+
+### 27.周晓楷 Helkyle
+w3cTrain成员
+[个人主页](http://helkyle.com/)
+
+联系方式：
+[微博](http://weibo.com/joueu)
+[邮件地址](helkylefighting@gmail.com)
+[Codepen](http://codepen.io/HelKyle/)
+[Github](https://github.com/HelKyle)
+
+### 28.
+
+### 29.
+
+### 30.
 
 
 ## 2. 团队
