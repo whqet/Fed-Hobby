@@ -160,254 +160,150 @@ Github设计主管，[Bootstrap](http://getbootstrap.com/)作者。
 [Github](https://github.com/mdo)、
 [Dribble](https://dribbble.com/mdo)、
 [blog](http://markdotto.com/)、
-邮箱：markdotto@gmail.com、或是[github]上[提问](https://github.com/mdo/ama)。
+邮箱：markdotto@gmail.com、或是github上[提问](https://github.com/mdo/ama)。
 
 -------------------
 
-ok
+#### [Sindre Sorhus](https://github.com/sindresorhus)
 
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+[AVA](https://github.com/avajs/ava)、[chalk](https://github.com/chalk/chalk)、[yeoman](http://yeoman.io/)等项目开创者，创建多个流行github项目[awesome](https://github.com/sindresorhus/awesome)、[awesome-nodejs](
+https://github.com/sindresorhus/awesome-nodejs)等。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](https://twitter.com/sindresorhus)、
+[Github](https://github.com/sindresorhus)、
+邮箱：sindresorhus@gmail.com
 
 -------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [Una Kravets(https://una.im/about/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+前端开发者、设计师，擅长使用CSS去做美妙的事情，CSS图片美化库[CSSgram](https://github.com/una/CSSgram)项目开发者,IBM Design团队成员。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](http://twitter.com/una)、
+[Github](http://github.com/una)、
+[Dribble](http://dribbble.com/una)、
+[Codepen](http://codepen.io/una)、
+[Linkedin](http://www.linkedin.com/pub/una-kravets/30/827/a35/)、
+[blog](https://una.im/)、
+邮箱：una.kravets@gmail.com
 
--------------------
+--------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [ESTELLE WEYL](http://www.standardista.com/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+资深web开发人员，技术书女作家，写就[**HTML5与CSS3实战指南**](https://book.douban.com/subject/6969713/)、[Flexible Boxes in CSS : Free Yourself with Flexbox](https://book.douban.com/subject/26731854/)、[Transitions and Animations in CSS: Adding Motion with CSS](https://book.douban.com/subject/26782226/)、[Mobile HTML5 : Using the latest today](https://book.douban.com/subject/6865682/)等。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](http://twitter.com/estellevw)、
+[Github](https://github.com/estelle)、
+[演讲](http://lanyrd.com/profile/estellevw/)、
+[图书](https://book.douban.com/search/Estelle%20Weyl)、
+邮箱：estelle@weyl.org、或者个人网站留言提问。
 
--------------------
+---------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [Alex Sexton](https://alexsexton.com/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+[Modernizr](http://modernizr.com)、[jQuery](https://jquery.org/team/)、[Dojo Foundation](http://dojofoundation.org/about/board-members)等项目核心成员。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](https://twitter.com/SlexAxton)、
+[Github](https://github.com/SlexAxton)、
+[Google+](https://www.google.com/+AlexSexton)、
+邮箱：alexsexton@gmail.com
 
--------------------
+---------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [Christian Heilmann](https://www.christianheilmann.com/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+Mozilla首席html5布道者，知名web开发者、技术作家，[Web开发解决方案](https://book.douban.com/subject/3137323/)、[The Art & Science of JavaScript](https://book.douban.com/subject/3014491/)作者之一。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](http://twitter.com/codepo8)、
+[Github](https://github.com/codepo8)、
+[Google+](https://plus.google.com/111552931212713155841/posts)、
+[Sitepoint](https://www.sitepoint.com/author/christian-heilmann/)、
+[Smashing magazine](https://www.smashingmagazine.com/author/christian-heilmann/)、
+邮箱：chris.heilmann@gmail.com、或chris@christianheilmann.com
 
--------------------
+-----------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [Kyle Simpson](http://getify.me/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+从事跟JS有关的一切事儿，写书、教学、演讲、开发等等，《**[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md#you-dont-know-js-book-series) **》系列丛书作者，[你不知道的JavaScript（上卷）](https://book.douban.com/subject/26351021/)、[HTML5 Cookbook](https://book.douban.com/subject/10773333/)作者。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Facebook](https://facebook.com/kyle-simpson)、
+[Github](https://github.com/getify)、
+[Google+](http://getify.me/@google+)、
+[Linkedin](http://getify.me/@linkedin)、
+[Stackoverflow.com](http://stackoverflow.com/users/228852/kyle-simpson)、
+邮箱：getify@gmail.com
 
--------------------
+------------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [Ana Tudor](https://thebabydino.github.io/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+Codenpen上玩CSS的女孩子，很多效果非常厉害。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](https://twitter.com/thebabydino)、
+[Github](https://github.com/thebabydino)、
+[Codepen](http://codepen.io/thebabydino/)、
+[Stackoverflow.com](http://stackoverflow.com/users/1397351/ana)、
 
--------------------
+------------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [Dudley Storey](http://thenewcode.com/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+《[Pro Css3 Animation](https://book.douban.com/subject/20780533/)》图书作者，CSSSlidy等项目作者。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](https://twitter.com/dudleystorey)、
+[Github](https://github.com/dudleystorey)、
+[Google+](https://plus.google.com/+DudleyStorey/)、
+[Codepen](http://codepen.io/dudleystorey/)、
+邮箱：dudley.storey@gmail.com
 
--------------------
+------------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [Hakim El Hattab](http://hakim.se/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+来自瑞典的前端开发工程师、界面设计师，[slides](https://slides.com/)创始人，[reveal.js](https://github.com/hakimel/reveal.js)、Ladda、stroll.js等项目开发者，详情参加个人主页。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](http://twitter.com/hakimel)、
+[Github](https://github.com/hakimel)、
+[Codepen](http://codepen.io/hakimel)、
+邮箱：hakim.elhattab@gmail.com
 
--------------------
+------------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [Angus Croll](http://anguscroll.com/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+Twitter公司前端工程师，[Twitter Flight](http://flightjs.github.io/)项目合作开发者,[If Hemingway Wrote JavaScript](http://anguscroll.com/hemingway/index.html)作者。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](https://twitter.com/angustweets)、
+[Github](https://github.com/angus-c)、
+[Codepen](http://codepen.io/hakimel)、
+邮箱：anguscroll@gmail.com
 
--------------------
+------------------------
 
-#### [John Resig](http://ejohn.org/)
+#### [Nicolas Gallagher](http://nicolasgallagher.com/)
 
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
-
-联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
-
--------------------
-
-#### [John Resig](http://ejohn.org/)
-
-[jQuery](http://jquery.com/)、[Processing.js](http://processingjs.org/)、[Sizzle.js](http://sizzlejs.com/)等项目作者，现为[可汗学院](http://khanacademy.org/)计算机学院负责人。[JS忍者秘籍](https://book.douban.com/subject/26638316/)(Secrets of the JavaScript Ninja)、[精通JavaScript](https://book.douban.com/subject/3007076/)(Pro JavaScript Techniques)作者。
+Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normalize.css)项目创始人，bower、rework、postcss、npm dom等项目核心参与者。
 
 联系方式：
-[Twitter](http://twitter.com/jeresig)
-[Github](https://github.com/jeresig)
-[邮箱](jeresig@gmail.com)
-*请在邮箱联系他之前，先读[联系说明](http://ejohn.org/about/)*
+[Twitter](http://twitter.com/necolas)、
+[Github](http://github.com/necolas)、
+[Linkedin](http://www.linkedin.com/in/nicolasgallagher)、
+邮箱：nicolas@nicolasgallagher.com
 
--------------------
-
-
-
+------------------------
 
 ### 1.2 国内大神
 
