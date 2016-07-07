@@ -176,7 +176,7 @@ https://github.com/sindresorhus/awesome-nodejs)等。
 
 -------------------
 
-#### [Una Kravets(https://una.im/about/)
+#### [Una Kravets](https://una.im/about/)
 
 前端开发者、设计师，擅长使用CSS去做美妙的事情，CSS图片美化库[CSSgram](https://github.com/una/CSSgram)项目开发者,IBM Design团队成员。
 
