@@ -360,7 +360,6 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 --------------------------
 
 #### 5.[尤小右](http://evanyou.me/)
-![尤小右](https://avatars3.githubusercontent.com/u/499550?v=3&s=460)
 
 本名尤雨溪，目前在 Google Creative Lab 就职。vue.js 项目作者。
 
