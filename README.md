@@ -355,6 +355,19 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 
 --------------------------
 
+#### [尤小右](http://evanyou.me/)
+![尤小右](https://avatars3.githubusercontent.com/u/499550?v=3&s=460)
+
+本名尤雨溪，目前在 Google Creative Lab 就职。vue.js 项目作者。
+
+联系方式：
+[微博](http://weibo.com/arttechdesign)、
+[知乎](https://www.zhihu.com/people/evanyou)、
+[Twitter](https://twitter.com/youyuxi)、
+[Github](https://github.com/yyx990803)
+
+----------------------------
+
 #### [贺师俊](http://johnhax.net/)
 
 贺师俊，网名 Hax，有年头的 Web 开发者。信仰 Web 标准，HTML 纯化论者 +CSS 理想主义者 +JavaScript 改革派 +REST 信徒。 他致力于构建真正实践互联网开放理念的 Web 产品，并平衡需求、技术和人性因素。所以在写代码以外，他还热切的关注可用性、无障碍性乃至更广泛意义上的用户体验（譬如售后服务）。 作为一个坚持己见的人，Hax 因犀利的技术批评为人所知，其拍砖对象下到写书神棍上至业界权威，中间亦包括他的同事和朋友——因为他深信正直坦诚是技术人员必须坚守的美德，并希望通过自由而热烈的讨论推动技术社群不断成长、永葆活力。 Hax 毕业于复旦大学，感兴趣的领域除了 Web 标准、协议、架构以及与 Web 相关的各种具体技术之外，还包括交互设计、编程语言和方法论，最近则迷上了字体和排版。
@@ -380,18 +393,23 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 
 --------------------------
 
-#### [徐涛]()
+#### [徐涛](http://www.cnblogs.com/TomXu/)
 
+汤姆大叔，原名徐涛，徐涛，资深Web开发工程师，精通JavaScript、CSS、HTML5等Web开发技术，以及Bootstrap等各种主流Web开发框架。擅长Web系统的架构、设计与开发，参与过全球最大婚恋网站Match、全球最大在线旅游网站Expedia、波音公司、GE医疗和万达集团等多个国际知名企业的Web项目的架构与设计。他还是一位资深的微软技术专家，曾获得MCP、MCTS、MCDBA等近十项认证。翻译了《Java Script编程精解》、《Javascript启示录》、《编写可测试的JavaScript代码》、《Backbone.js应用程序开发》、《JavaScript忍者秘籍》、《JavaScript设计模式》等多本JavaScript方面的著作。
 
+联系方式：
+[微博](http://weibo.com/TomXuTao)、
+[博客](http://www.cnblogs.com/TomXu/)
 
 ---------------------------
 
 #### [廖雪峰](http://www.liaoxuefeng.com/)
 
-技术作家，著有《Spring 2.0核心技术与最佳实践》,号称史上最浅显易懂的[Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)。
+技术作家，十年软件开发经验，业余产品经理，精通Java/Python/Ruby/Visual Basic/Objective C等，对开源框架有深入研究，著有号称史上最浅显易懂的[Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)，口碑不错的《[JS教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)》，多个业余开源项目托管在GitHub。
 
 联系方式:
 [微博](http://weibo.com/liaoxuefeng)、
+[Twitter](https://twitter.com/liaoxuefeng)、
 [知乎](https://www.zhihu.com/people/liaoxuefeng)、
 [Github](https://github.com/michaelliao)、
 邮箱：askxuefeng@gmail.com
@@ -400,14 +418,34 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 
 #### [勾三股四](http://jiongks.name/)
 
+勾三股四，本名赵锦江，阿里巴巴高级前端工程师，前北京傲游前端开发部经理。
+
+联系方式:
+[微博](http://weibo.com/mx006)、
+[知乎](https://www.zhihu.com/people/jinjiang)、
+[Github](http://github.com/jinjiang/)、
+邮箱：zhaojinjiang@me
 
 ---------------------------
 
-#### [张鑫旭]()
+#### [张鑫旭](http://www.zhangxinxu.com/)
 
+09年华中科技大学毕业，目前上海，原腾讯社交用户体验部上海设计中心UI开发，现就职阅文集团，资深钓鱼爱好者，专注web前端偏前领域，博客笔风幽默、深刻易懂。
+
+联系方式:
+[微博](http://weibo.com/zhangxinxu)、
+[知乎](https://www.zhihu.com/people/zhang-xin-xu-47)、
+[慕课网](http://www.imooc.com/u/197450/courses?sort=publish)、
+邮箱：zhangxinxu@zhangxinxu.com
 
 
 ---------------------------
+
+#### [徐飞(民工精髓)]()
+
+
+
+-----------------------------
 
 ####  裕波
 
@@ -415,9 +453,26 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 
 ---------------------------
 
+#### [张云龙](https://github.com/fouber/blog)
+
+张云龙(前端农民工),现为全民TV技术总监，前UC浏览器导航团队前端技术负责人，前FIS团队技术负责人。
+
+联系方式：
+[微博](http://weibo.com/fouber)、
+[知乎](https://www.zhihu.com/people/fouber)、
+[Github](https://github.com/fouber)
+
+-----------------------------
+
+#### 吴亮（月影）
+
+
+
+----------------------------
+
 #### 大漠
 
----------------------------
+----------------------------
 
 #### 颜海镜
 
@@ -433,7 +488,6 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 
 #### [迷渡](http://justjavac.com/)
 
-
 联系方式:
 [微博](http://weibo.com/justjavac)、
 [知乎](http://www.zhihu.com/people/justjavac.com)、
@@ -443,6 +497,13 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 justjavac@gmail.com
 
 ----------------------------
+
+
+#### 情封
+
+
+
+---------------------------
 
 
 #### 神飞
@@ -456,89 +517,122 @@ justjavac@gmail.com
 
 ---------------------------
 
-#### 赵雷
-![赵雷](https://avatars1.githubusercontent.com/u/157338?v=3&s=460)
+#### [赵雷](http://zhaolei.info/)
 
-百度资深研发工程师, [个人主页](http://zhaolei.info/), [微博](http://weibo.com/firede), [Github](https://github.com/firede)，可以微博私信他访谈。
+百度资深研发工程师
 
+联系方式：
+[微博](http://weibo.com/firede)、
+[Github](https://github.com/firede)、
+可以微博私信他访谈。
 
-[个人主页](//mingelz.com/)
-[Github](//github.com/mingelz)
+---------------------------
 
-### 15. 黄子毅
+#### 黄子毅
 
 [邮箱](576625322@qq.com)
 [个人主页](http://www.wokugame.com/)
 
+---------------------------
 
-### 16. 吴多益
+#### [吴多益](http://wuduoyi.com/)
 
-[个人主页](http://wuduoyi.com/)，百度前端团队成员，FEX 团队负责人。
+百度前端团队成员，FEX 团队负责人。
 
 联系方式：
-[Github](https://github.com/nwind/)
-[Twitter](http://twitter.com/nwind/)
-[微博](http://weibo.com/nwind/)
+[Github](https://github.com/nwind/)、
+[Twitter](http://twitter.com/nwind/)、
+[微博](http://weibo.com/nwind/)、
 [知乎](https://www.zhihu.com/people/wuduoyi)
 
-### 17. 小芋头君
+---------------------------
 
-[个人主页](http://www.html-js.com)，[大搜车前端](http://f2e.souche.com/blog/)负责人，颜文字app作者，[前端乱炖](http://www.html-js.com/)创始人。
+#### [小胡子哥](http://www.barretlee.com/entry/)
 
-联系方式：
-[微博](http://weibo.com/676588498)
-[知乎](https://www.zhihu.com/people/li-shou-xin)
-[Github](https://github.com/xinyu198736)
-[邮箱](xinyu198736@gmail.com)
-
-### 18. 林建锋（sofish）
-
-林建锋(小鱼)[个人主页](https://sofi.sh/)，国内资深前端开发工程师，Web 标准布道者，前支付宝前端开发部 CSS 样式库负责人。Trimidea 创始人，目前就职饿了么。
+本名李靖，淘宝web研发工程师。
 
 联系方式：
-[微博](http://weibo.com/sofish)
-[知乎](https://www.zhihu.com/people/sofish)
-[Github](https://github.com/sofish)
-[邮箱](sofish@icloud.com)
+[微博](http://weibo.com/173248656)、
+[Twitter](https://twitter.com/barret_china)、
+[知乎](https://www.zhihu.com/people/barretlee)、
+[Github](https://github.com/barretlee)、
+[老博客](http://hustskyking.cnblogs.com/)、
+邮箱：barret.china@gmail.com
 
 
-### 19.尤小右
-![尤小右](https://avatars3.githubusercontent.com/u/499550?v=3&s=460)
+---------------------------
 
-[个人主页](http://evanyou.me/),本名尤雨溪，目前在 Google Creative Lab 就职。vue.js 项目作者。
+#### [小芋头君](http://www.html-js.com)
 
-联系方式：
-[微博](http://weibo.com/arttechdesign)
-[知乎](https://www.zhihu.com/people/evanyou)
-[Twitter](https://twitter.com/youyuxi)
-[Github](https://github.com/yyx990803)
-
-
-### 20.聂微东
-
-### 21.寒冬winter 
-
-[寒冬winter ](http://winter-cn.cnblogs.com/)，本名程劭非，花名寒泉，前端工程师，JavaScript 专家。江湖人称“计算机之子”。先后在微软，盛大，阿里巴巴工作，目前是手机淘宝前端 leader。
+[大搜车前端](http://f2e.souche.com/blog/)负责人，颜文字app作者，[前端乱炖](http://www.html-js.com/)创始人。
 
 联系方式：
-[微博](http://weibo.com/wintercn)
-[Github](https://github.com/wintercn)
-[邮箱](csf178@gmail.com)
+[微博](http://weibo.com/676588498)、
+[知乎](https://www.zhihu.com/people/li-shou-xin)、
+[Github](https://github.com/xinyu198736)、
+邮箱：xinyu198736@gmail.com
 
-### 22.周文斌
+----------------------------
 
-### 23.薛端阳
+#### [林建锋（sofish）](https://sofi.sh/)
 
-### 24.yiminghe
+国内资深前端开发工程师，Web 标准布道者，前支付宝前端开发部 CSS 样式库负责人。Trimidea 创始人，目前就职饿了么。
+
+联系方式：
+[微博](http://weibo.com/sofish)、
+[知乎](https://www.zhihu.com/people/sofish)、
+[Github](https://github.com/sofish)、
+邮箱：sofish@icloud.com
+
+----------------------------
+
+#### 聂微东
+
+
+----------------------------
+
+#### 屈光宇
+
+
+
+----------------------------
+
+#### [寒冬winter](http://winter-cn.cnblogs.com/)
+
+本名程劭非，花名寒泉，前端工程师，JavaScript 专家。江湖人称“计算机之子”。先后在微软，盛大，阿里巴巴工作，目前是手机淘宝前端 leader。
+
+联系方式：
+[微博](http://weibo.com/wintercn)、
+[知乎](https://www.zhihu.com/people/evanyou)、
+[Github](https://github.com/wintercn)、
+[博客](http://winter-cn.cnblogs.com/)、
+邮箱：csf178@gmail.com
+
+----------------------------
+
+#### 周文斌
+
+----------------------------
+
+#### 薛端阳
+
+
+----------------------------
+
+#### yiminghe
 ![yiminghe](https://avatars2.githubusercontent.com/u/200876?v=3&s=460)
 
 [个人主页](http://yiminghe.me/)
 
-### 25.张云龙
+-----------------------------
 
-### 26.尚左 mingelz
+#### 尚左 mingelz
+[个人主页](//mingelz.com/)
+[Github](//github.com/mingelz)
 
-### 27.周晓楷 Helkyle
+-----------------------------
+
+#### 周晓楷 Helkyle
 w3cTrain成员
 [个人主页](http://helkyle.com/)
 
@@ -548,11 +642,7 @@ w3cTrain成员
 [Codepen](http://codepen.io/HelKyle/)
 [Github](https://github.com/HelKyle)
 
-### 28.
-
-### 29.
-
-### 30.
+-----------------------------
 
 
 ## 2. 团队
@@ -562,7 +652,3 @@ w3cTrain成员
 ## 4. 教程
 
 ## 5. 资源
-
-
-
-
