@@ -373,7 +373,7 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 
 #### 6.[贺师俊](http://johnhax.net/)
 
-贺师俊，网名 Hax，有年头的 Web 开发者。信仰 Web 标准，HTML 纯化论者 +CSS 理想主义者 +JavaScript 改革派 +REST 信徒。 他致力于构建真正实践互联网开放理念的 Web 产品，并平衡需求、技术和人性因素。所以在写代码以外，他还热切的关注可用性、无障碍性乃至更广泛意义上的用户体验（譬如售后服务）。 作为一个坚持己见的人，Hax 因犀利的技术批评为人所知，其拍砖对象下到写书神棍上至业界权威，中间亦包括他的同事和朋友——因为他深信正直坦诚是技术人员必须坚守的美德，并希望通过自由而热烈的讨论推动技术社群不断成长、永葆活力。 Hax 毕业于复旦大学，感兴趣的领域除了 Web 标准、协议、架构以及与 Web 相关的各种具体技术之外，还包括交互设计、编程语言和方法论，最近则迷上了字体和排版。
+贺师俊，网名 Hax，百姓网前端技术专家。有年头的 Web 开发者，信仰 Web 标准，HTML 纯化论者 +CSS 理想主义者 +JavaScript 改革派 +REST 信徒。 他致力于构建真正实践互联网开放理念的 Web 产品，并平衡需求、技术和人性因素。所以在写代码以外，他还热切的关注可用性、无障碍性乃至更广泛意义上的用户体验（譬如售后服务）。 作为一个坚持己见的人，Hax 因犀利的技术批评为人所知，其拍砖对象下到写书神棍上至业界权威，中间亦包括他的同事和朋友——因为他深信正直坦诚是技术人员必须坚守的美德，并希望通过自由而热烈的讨论推动技术社群不断成长、永葆活力。 Hax 毕业于复旦大学，感兴趣的领域除了 Web 标准、协议、架构以及与 Web 相关的各种具体技术之外，还包括交互设计、编程语言和方法论，最近则迷上了字体和排版。
 
 联系方式：
 [微博](http://weibo.com/haxy)、
@@ -384,21 +384,15 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 
 ---------------------------
 
-#### 7.[CSS魔法](http://www.cssmagic.net/)
+#### 7.[周爱民]()
 
-百姓网前端架构师，《CSS 揭秘》译者，微信公众号和微博都叫*CSS魔法*。
 
-联系方式：
-[微博](http://weibo.com/cssmagic)、
-[Twitter](https://twitter.com/cssmagic)、
-[知乎](http://www.zhihu.com/people/cssmagic)、
-[Github](https://github.com/cssmagic)、
 
 --------------------------
 
 #### 8.[徐涛](http://www.cnblogs.com/TomXu/)
 
-汤姆大叔，原名徐涛，徐涛，资深Web开发工程师，精通JavaScript、CSS、HTML5等Web开发技术，以及Bootstrap等各种主流Web开发框架。擅长Web系统的架构、设计与开发，参与过全球最大婚恋网站Match、全球最大在线旅游网站Expedia、波音公司、GE医疗和万达集团等多个国际知名企业的Web项目的架构与设计。他还是一位资深的微软技术专家，曾获得MCP、MCTS、MCDBA等近十项认证。翻译了《Java Script编程精解》、《Javascript启示录》、《编写可测试的JavaScript代码》、《Backbone.js应用程序开发》、《JavaScript忍者秘籍》、《JavaScript设计模式》等多本JavaScript方面的著作。
+汤姆大叔，原名徐涛，资深Web开发工程师，精通JavaScript、CSS、HTML5等Web开发技术，以及Bootstrap等各种主流Web开发框架。擅长Web系统的架构、设计与开发，参与过全球最大婚恋网站Match、全球最大在线旅游网站Expedia、波音公司、GE医疗和万达集团等多个国际知名企业的Web项目的架构与设计。他还是一位资深的微软技术专家，曾获得MCP、MCTS、MCDBA等近十项认证。翻译了《Java Script编程精解》、《Javascript启示录》、《编写可测试的JavaScript代码》、《Backbone.js应用程序开发》、《JavaScript忍者秘籍》、《JavaScript设计模式》等多本JavaScript方面的著作。
 
 联系方式：
 [微博](http://weibo.com/TomXuTao)、
@@ -496,6 +490,11 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 
 -----------------------------
 
+#### 16.[陈本峰]()
+
+
+
+--------------------------
 
 #### 16.[张鑫旭](http://www.zhangxinxu.com/)
 
@@ -589,7 +588,19 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 
 ---------------------------
 
-#### 23.[赵雷](http://zhaolei.info/)
+#### 23.[CSS魔法](http://www.cssmagic.net/)
+
+百姓网前端架构师，《CSS 揭秘》译者，微信公众号和微博都叫*CSS魔法*。
+
+联系方式：
+[微博](http://weibo.com/cssmagic)、
+[Twitter](https://twitter.com/cssmagic)、
+[知乎](http://www.zhihu.com/people/cssmagic)、
+[Github](https://github.com/cssmagic)、
+
+--------------------------
+
+#### 24.[赵雷](http://zhaolei.info/)
 
 Firede，85后 程序员，前点点网首席前端工程师，百度资深研发工程师。现供职于[百度商业体系前端团队](http://efe.baidu.com/)，在与 [NB的小伙伴们](https://github.com/ecomfe)一起做 有意思的事情。
 技能树很杂，除 编程 外，产品、设计、创业 的话题也能聊得来。爱好广泛但小众，较正常的是 看书 和 摄影；是 果粉 和 GitHub 粉。
@@ -674,6 +685,36 @@ Firede，85后 程序员，前点点网首席前端工程师，百度资深研�
 [知乎](https://www.zhihu.com/people/kejun/)、
 [Github](https://github.com/kejun)、
 邮箱：listenpro@gmail.com
+
+----------------------------
+
+#### [范俊豪]()
+
+腾讯用户研究与体验设计部Web前端组组长。
+
+联系方式：
+[微博](http://weibo.com/kejunz)、
+[知乎](https://www.zhihu.com/people/tommyfan/)、
+[Github](https://github.com/kejun)、
+邮箱：listenpro@gmail.com
+
+----------------------------
+
+#### [师陆远]()
+
+网易有道资深研发工程师
+
+----------------------------
+
+#### [唐钊]()
+
+腾讯互动娱乐事业群高级Web前端工程师
+
+---------------------------
+
+#### [马剑]()
+
+京东设计中心高级前端工程师。
 
 ----------------------------
 
@@ -869,20 +910,28 @@ QQ：148246293、
 
 ----------------------------
 
-#### 周爱民()
-
-
-----------------------------
-
 #### 45.[大猫](http://ooxx.me/)
 
+微信前端工程师。
 
-
+联系方式：
+[知乎](https://www.zhihu.com/people/bigc.at/)、
+[Github](https://github.com/Damao)、
+QQ：18958069、
+邮箱：i@ooxx.me
 
 ----------------------------
 
 #### 46.[彬Go](http://www.bingo929.com/)
 
+前人人网前端开发工程师，人人小站前端团队技术主管，现为[异乡好居](http://www.uhouzz.com/)前端开发工程师。
+
+联系方式：
+[微博](http://weibo.com/feiwen8772)、
+[知乎](https://www.zhihu.com/people/feiwen8772)、
+[Github](https://github.com/feiwen8772)、
+QQ：215392、
+邮箱：skar9363@gmail.com
 
 ----------------------------
 
