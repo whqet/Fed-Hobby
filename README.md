@@ -596,14 +596,14 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 [微博](http://weibo.com/cssmagic)、
 [Twitter](https://twitter.com/cssmagic)、
 [知乎](http://www.zhihu.com/people/cssmagic)、
-[Github](https://github.com/cssmagic)、
+[Github](https://github.com/cssmagic)
 
 --------------------------
 
 #### 24.[赵雷](http://zhaolei.info/)
 
 Firede，85后 程序员，前点点网首席前端工程师，百度资深研发工程师。现供职于[百度商业体系前端团队](http://efe.baidu.com/)，在与 [NB的小伙伴们](https://github.com/ecomfe)一起做 有意思的事情。
-技能树很杂，除 编程 外，产品、设计、创业 的话题也能聊得来。爱好广泛但小众，较正常的是 看书 和 摄影；是 果粉 和 GitHub 粉。
+技能树很杂，除编程外，产品、设计、创业的话题也能聊得来。爱好广泛但小众，较正常的是看书和摄影；是果粉和GitHub粉。
 
 联系方式：
 [微博](http://weibo.com/firede)、
@@ -679,7 +679,7 @@ Firede，85后 程序员，前点点网首席前端工程师，百度资深研�
 
 ####  30.[张克军](http://hikejun.com)
 
-张克军，豆瓣前端负责人。
+张克军，豆瓣前端负责人，知名web技术布道者。
 
 联系方式：
 [微博](http://weibo.com/kejunz)、
@@ -790,7 +790,8 @@ QQ:181422448、
 [Codepen](http://codepen.io/tychio)、
 [Linkedin](http://www.linkedin.com/in/zhangzz)、
 [Stackoverflow](http://stackoverflow.com/users/1954201/tychio)、
-[QQ](http://wpa.qq.com/msgrd?v=3&uin=18476046&site=qq&menu=yes)、
+[QQ](http://wpa.qq.com/msgrd?v=3&uin=18476046&site=qq&menu=yes)
+
 邮箱：z@tychio.net，zzzhang@thoughtworks.com，zzztychio@gmail.com
 
 ----------------------------
