@@ -4,7 +4,7 @@
 
 欢迎大家加入QQ群<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=1680c904cf762ddb1452aff73f5257b423fe28f9550704f6b1bc02cb0c231a15">**前端癖(333278649)**<img border="0" src="http://img.blog.csdn.net/20160706121942036?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="前端癖" title="前端癖"></a>交流学习。
 
-## 0.目录
+## 0.前端导航目录
 
 1. [大神](#1-大神)
 	1. [国际大神](#11-国际大神)
@@ -15,7 +15,7 @@
 5. [资源](#5-资源)
 	1. [技术周刊](#51-技术周刊)
 
-## 1. 大神
+## 1. 大神 
 
 寻找Github、微博、知乎等技术社区上比较活跃、影响力大的圈内大神，供大家膜拜！
 
@@ -26,6 +26,7 @@
 提供信息只为学习交流之用，如有冒犯，请见谅；如果涉及隐私或不愿公开内容，请联系我。
 
 ### 1.1 国际大神
+[回导航](#0-前端导航目录)
 
 #### 1.[Chris Coyier](http://chriscoyier.net/)
 
@@ -321,7 +322,7 @@ Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normal
 ------------------------
 
 ### 1.2 国内大神
-
+[回导航](#0-前端导航目录)
 #### 1.[玉伯](https://github.com/lifesinger/blog/issues)
 
 玉伯（王保平），淘宝前端类库 KISSY、前端模块化开发框架SeaJS、前端基础类库Arale的创始人。2003-2006 年，中科院物理所研究生，Fortran 与 C 程序员，喜爱实验模拟和数值计算。 2006-2008 年，在中科院软件所互联网实验室从事项目管理软件的研发，C# 与 Java 爱好者。 2008 年 4 月份加入淘宝，就职于 UED 部门。2009 年起，组建前端架构团队，在首页维护、全网性能优化、类库研发、知识沉淀、工具应用等方面取得了丰硕成果。
@@ -963,18 +964,18 @@ w3cTrain成员。
 -----------------------------
 
 ## 2. 团队
-
+[回导航](#0-前端导航目录)
 
 ## 3. 社区
-
+[回导航](#0-前端导航目录)
 
 ## 4. 教程
-
+[回导航](#0-前端导航目录)
 
 ## 5. 资源
-
+[回导航](#0-前端导航目录)
 ### 5.1 技术周刊
-
+[回导航](#0-前端导航目录)
 1. [HTML5 Weekly](http://html5weekly.com/)
 2. [CSS Weekly](http://css-weekly.com/)
 3. [JavaScript Weekly](http://javascriptweekly.com/)
