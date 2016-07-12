@@ -974,7 +974,7 @@ w3cTrain成员。
 
 2. 腾讯ISUX-[网站](https://isux.tencent.com/)-[微博](http://weibo.com/txisux)-[Github](https://github.com/isux/)
 
-	腾讯社交用户体验设计，简称ISUX (Internet Social User Experience)，是全球最具规模的UX设计团队，主要负责腾讯社交通讯与娱乐类产品服务的用户体验设计与研究，包括主要服务平台如QQ、QQ空间、QQ音乐、QQ会员、QQ钱包、QQ运动、腾讯云、腾讯企点、QQ物联、腾讯课堂、兴趣部落、花样直播、全民K歌、全民影帝、企鹅FM、企鹅MV、天天P图、微云和来电等。ISUX自主研发的智能产品“Qlippie”和“小小Q”、品牌形象系列“QQfamily”与创作者社交平台“原创馆”，设计工具“PsPlay”、“Demoo”和创作工具“五维卡”等供业界广泛使用并获得好评。
+	腾讯社交用户体验设计，简称ISUX (Internet Social User Experience)，是全球最具规模的UX设计团队，主要负责腾讯社交通讯与娱乐类产品服务的用户体验设计与研究。
 
 3. 腾讯CDC-[网站](http://www.75team.com/)-[微博](http://weibo.com/2375545650/)
 	
@@ -994,7 +994,7 @@ w3cTrain成员。
 	
 7. 腾讯IMWEB-[网站](http://imweb.io/)-[微博](http://weibo.com/imwebteam/)-[Github](https://github.com/imweb)
 	
-	IMWEB团队正式成立是时间是2011年6月7日，团队创立之初是负责腾讯最核心的基础业务，QQ注册， QQ登录（ptlogin），QQ资料和关系链拓展等基础服务。 后转型进行应用开发，分别投入Q+，QQ圈子， QQ匿名聊，QQ群整体业务等。目前主要负责腾讯在线教育战略产品腾讯课堂，多人社交互动视频以及活动 组织类项目的研发工作。
+	IMWEB团队正式成立是时间是2011年6月7日，团队创立之初是负责腾讯最核心的基础业务， 后转型进行应用开发。目前主要负责腾讯在线教育战略产品腾讯课堂，多人社交互动视频以及活动 组织类项目的研发工作。
 
 8. 有一点-[网站](http://www.aliued.cn/)-[微博](http://weibo.com/2464213930/)
 	
