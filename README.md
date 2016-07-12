@@ -965,6 +965,7 @@ w3cTrain成员。
 
 -----------------------------
 [回导航目录](#0前端导航目录)
+
 ## 2. 团队
 
 1. 360奇舞团-[团队博客](http://www.75team.com/)-[微博](http://www.weibo.com/75Team)-[Github](https://github.com/75team)
@@ -995,8 +996,19 @@ w3cTrain成员。
 	
 	IMWEB团队正式成立是时间是2011年6月7日，团队创立之初是负责腾讯最核心的基础业务，QQ注册， QQ登录（ptlogin），QQ资料和关系链拓展等基础服务。 后转型进行应用开发，分别投入Q+，QQ圈子， QQ匿名聊，QQ群整体业务等。目前主要负责腾讯在线教育战略产品腾讯课堂，多人社交互动视频以及活动 组织类项目的研发工作。
 
-8. 	
+8. 有一点-[团队博客](http://www.aliued.cn/)-[微博](http://weibo.com/2464213930/)
+	
+	阿里巴巴中文站（1688.com）UED，也称1688UED，花名“U一点”，成立于1999年，历史悠久，底蕴深厚，是阿里巴巴集团最为资深的用户体验设计部门之一。
 
+9. 阿里巴巴国际UED-[团队博客](http://www.aliued.com/)-[微博](http://weibo.com/2855231312)
+	
+10. 阿里妈妈MUX-[团队博客](http://mux.alimama.com/)-[微博](http://weibo.com/alimamamux)-[Github](https://github.com/thx)
+
+	阿里妈妈是阿里巴巴集团旗下面向全网客户的开放式网络营销平台，阿里妈妈用户体验部负责集团PC端和无线端广告平台的体验设计和前端研发工作。
+		
+11. 淘宝FED-[团队博客](http://taobaofed.org/)-[微博](http://weibo.com/taobaofed)-[Github](https://github.com/taobaofed)
+
+12. 
 
 [回导航目录](#0前端导航目录)
 ## 3. 社区
