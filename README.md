@@ -1019,7 +1019,16 @@ w3cTrain成员。
 	
 	FEX 是百度「Web 前端研发部」的内部名称，其中 FE 是 Front End 的缩写，X 代表我们不仅关注前端技术，还更重视全端及全栈的能力。
 
-16. 
+16. 百度LAMP-[网站](http://lamp.baidu.com/)-[Github](https://github.com/baidu-lamp)
+17. 百度企业产品体验中心(EUX)-[网站](http://eux.baidu.com/)-[Github](https://github.com/be-fe)
+18. 百度EFE(Excellent FrontEnd)-[网站](http://efe.baidu.com/)-[微博](http://weibo.com/3147992721)-[Github](https://github.com/ecomfe)
+19. 携程设计委员会-[网站](http://ued.ctrip.com/blog/)
+20. 饿了么大前端-[网站](https://fe.ele.me/)-[微博](http://weibo.com/elemefe)-[Github](https://github.com/elemefe/)
+21. 京东设计中心-[网站](http://jdc.jd.com/)-[微博](http://weibo.com/tencentecd)
+22. 网易用户体验设计中心-[网站](http://uedc.163.com/)
+23. 大搜车前端-[博客](http://f2e.souche.com/blog/)
+24. 美团点评技术团队-[网站](http://tech.meituan.com/)
+25. 畅游视觉设计中心-[网站](http://vc.changyou.com/)-[微博](http://weibo.com/cyouvc)-[站酷](http://www.zcool.com.cn/u/945336)-[花瓣](http://huaban.com/cyvc/)
 
 
 [回导航目录](#0前端导航目录)
