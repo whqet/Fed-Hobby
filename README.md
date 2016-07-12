@@ -1007,7 +1007,19 @@ w3cTrain成员。
 		
 11. 淘宝FED-[网站](http://taobaofed.org/)-[微博](http://weibo.com/taobaofed)-[Github](https://github.com/taobaofed)
 12. 天猫前端-[网站](http://tmallfe.github.io/)-[博客](https://github.com/tmallfe/tmallfe.github.io/issues)-[微博](http://weibo.com/tmallfe)-[Github](https://github.com/tmallfe)
-13. 
+13. 百度搜索用户体验中心(Search UX)-[网站](http://ued.baidu.com)-[微博](http://weibo.com/1905776593/)
+
+	由原百度“搜索用户体验部"、"商业用户体验部"合并而成。围绕百度最核心的搜索业务，致力于创建搜索引擎的极致用户体验，及用户与商业的和谐之美。
+	
+14. 百度移动用户体验部(MUX)-[网站](http://mux.baidu.com/)-[微博](http://weibo.com/1912312401/)
+	
+	百度无线用户体验部，是百度移动云事业部下的用户体验团队。负责百度无线搜索、百度、百度手机浏览器、百度手机输入法、百度云、百度手机助手等百度无线重点产品的体验设计工作，它们都引领着百度无线领域体验设计的最新动向。
+	
+15. 百度web前端研发部(FEX)-[网站](http://fex.baidu.com/)-[Github](https://github.com/fex-team/)
+	
+	FEX 是百度「Web 前端研发部」的内部名称，其中 FE 是 Front End 的缩写，X 代表我们不仅关注前端技术，还更重视全端及全栈的能力。
+
+16. 
 
 
 [回导航目录](#0前端导航目录)
