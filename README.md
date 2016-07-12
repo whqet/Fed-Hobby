@@ -967,13 +967,10 @@ w3cTrain成员。
 [回导航目录](#0前端导航目录)
 ## 2. 团队
 
-1. 360奇舞团
-
+1. 360奇舞团-[团队博客](http://www.75team.com/)-[微博](http://www.weibo.com/75Team)-[Github](https://github.com/75team)。
 360奇舞团（奇虎75Team）是 奇虎360公司Web平台部前端工程师 + 部分特约嘉宾 组成的一个前端团队。 在这里，我们一起工作学习、一起沉淀、一起分享、一起为前端贡献影响。 开放是我们的特色，快乐是我们的使命。 
-
-[团队博客](http://www.75team.com/)，[微博](http://www.weibo.com/75Team)，[Github](https://github.com/75team)。
-
-2. 
+2. 腾讯CDC-[团队博客](http://www.75team.com/)
+腾讯CDC，全称“腾讯用户研究与体验设计部（Customer Research & User Experience Design Center）”，2003年开始组建，正式成立于2006年5月，是腾讯公司级的设计团队,分布深圳、北京、成都三地，致力于提升腾讯产品的用户体验，探索互联网生态体验创新。
 
 [回导航目录](#0前端导航目录)
 ## 3. 社区
