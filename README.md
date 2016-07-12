@@ -961,14 +961,31 @@ w3cTrain成员。
 
 -----------------------------
 
-
 ## 2. 团队
 
 
 ## 3. 社区
 
+
 ## 4. 教程
+
 
 ## 5. 资源
 
-### 
+### 5.1 技术周刊
+
+1. [HTML5 Weekly](http://html5weekly.com/)
+2. [CSS Weekly](http://css-weekly.com/)
+3. [JavaScript Weekly](http://javascriptweekly.com/)
+4. [CSS Layout Weekly](http://csslayout.news/)
+5. [Responsive Design Weekly](http://responsivedesignweekly.com/)
+6. [Sass News](http://www.sassnews.com/)
+7. [Web Tools Weekly](http://webtoolsweekly.com/)
+8. [Dev Tips Newsletter](https://umaar.com/dev-tips/)
+9. [Web Design Weekly](https://web-design-weekly.com/)
+10. [Hacking UI](http://hackingui.com/newsletter-archive/)
+11. [PSD Repo](https://psdrepo.com/)
+12. [Codrops Collective](http://tympanus.net/codrops/collective/)
+13. [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+14. [FEX 技术周刊](http://fex.baidu.com/weekly/)
+15. [奇舞周刊](http://old.75team.com/weekly/)
