@@ -970,23 +970,23 @@ w3cTrain成员。
 
 1. 360奇舞团-[网站](http://www.75team.com/)-[微博](http://www.weibo.com/75Team)-[Github](https://github.com/75team)
 	
-	360奇舞团（奇虎75Team）是 奇虎360公司Web平台部前端工程师 + 部分特约嘉宾 组成的一个前端团队。 在这里，我们一起工作学习、一起沉淀、一起分享、一起为前端贡献影响。 开放是我们的特色，快乐是我们的使命。 
+	360奇舞团（奇虎75Team）是 奇虎360公司Web平台部前端工程师 + 部分特约嘉宾 组成的一个前端团队。
 
 2. 腾讯ISUX-[网站](https://isux.tencent.com/)-[微博](http://weibo.com/txisux)-[Github](https://github.com/isux/)
 
-	腾讯社交用户体验设计，简称ISUX (Internet Social User Experience)，是全球最具规模的UX设计团队，专业成员包括用户研究、交互设计、视觉设计、品牌设计、视频动画设计、UI开发、产品设计与市场研究等，主要负责腾讯社交通讯与娱乐类产品服务的用户体验设计与研究，包括主要服务平台如QQ、QQ空间、QQ音乐、QQ会员、QQ钱包、QQ运动、腾讯云、腾讯企点、QQ物联、腾讯课堂、兴趣部落、花样直播、全民K歌、全民影帝、企鹅FM、企鹅MV、天天P图、微云和来电等。ISUX自主研发的智能产品“Qlippie”和“小小Q”、品牌形象系列“QQfamily”与创作者社交平台“原创馆”，设计工具“PsPlay”、“Demoo”和创作工具“五维卡”等供业界广泛使用并获得好评。
+	腾讯社交用户体验设计，简称ISUX (Internet Social User Experience)，是全球最具规模的UX设计团队，主要负责腾讯社交通讯与娱乐类产品服务的用户体验设计与研究，包括主要服务平台如QQ、QQ空间、QQ音乐、QQ会员、QQ钱包、QQ运动、腾讯云、腾讯企点、QQ物联、腾讯课堂、兴趣部落、花样直播、全民K歌、全民影帝、企鹅FM、企鹅MV、天天P图、微云和来电等。ISUX自主研发的智能产品“Qlippie”和“小小Q”、品牌形象系列“QQfamily”与创作者社交平台“原创馆”，设计工具“PsPlay”、“Demoo”和创作工具“五维卡”等供业界广泛使用并获得好评。
 
 3. 腾讯CDC-[网站](http://www.75team.com/)-[微博](http://weibo.com/2375545650/)
 	
-	腾讯CDC，全称“腾讯用户研究与体验设计部（Customer Research & User Experience Design Center）”，2003年开始组建，正式成立于2006年5月，是腾讯公司级的设计团队,分布深圳、北京、成都三地，致力于提升腾讯产品的用户体验，探索互联网生态体验创新。
+	腾讯CDC，全称“腾讯用户研究与体验设计部（Customer Research & User Experience Design Center）”，是腾讯公司级的设计团队,分布深圳、北京、成都三地，致力于提升腾讯产品的用户体验，探索互联网生态体验创新。
 
 4. 腾讯AlloyTeam-[网站](http://www.alloyteam.com/)-[微博](http://weibo.com/alloyteam)-[Github](https://github.com/alloyteam)
 
-	腾讯Web前端团队 – Alloy Team 来自于腾讯SNG(社交网络事业群)，我们致力于Web前端技术的研究，热衷HTML5、移动Web技术，用最酷的新技术开发各种有趣的开源项目。
+	腾讯Web前端团队 – Alloy Team 来自于腾讯SNG(社交网络事业群)，致力于Web前端技术的研究，热衷HTML5、移动Web技术，用最酷的新技术开发各种有趣的开源项目。
 	
 5. 腾讯TGideas-[网站](http://tgideas.qq.com/)-[微博](http://weibo.com/tgideas/)-[Github](https://github.com/tgideas)
 	
-	腾讯游戏官方设计团队,隶属于腾讯互动娱乐业务系统，是一支专注于运营和营销领域的用户体验设计团队，工作范围涉及产品包装、广告创意、品牌建设、互动设计等，团队由专业的企划、项目管理、创意、视觉、开发、多媒体人才构成。“努力工作，拼命玩”是我们的信条，比起用飞机稿获奖，我们更乐于通过多样化的作品，帮助产品与用户建立有效的沟通机制与情感链接，实现真正意义上的商业价值。
+	腾讯游戏官方设计团队,隶属于腾讯互动娱乐业务系统，是一支专注于运营和营销领域的用户体验设计团队，工作范围涉及产品包装、广告创意、品牌建设、互动设计等，团队由专业的企划、项目管理、创意、视觉、开发、多媒体人才构成。
 
 6. 腾讯MXD-[网站](http://mxd.tencent.com/)-[腾讯微博](http://e.t.qq.com/tencent_mxd)-[Github](https://github.com/MIG-MXD)
 
