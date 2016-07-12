@@ -962,19 +962,18 @@ w3cTrain成员。
 邮件：helkylefighting@gmail.com
 
 -----------------------------
-
+[回导航目录](#0前端导航目录)
 ## 2. 团队
-[回导航目录](#0前端导航目录)
 
+[回导航目录](#0前端导航目录)
 ## 3. 社区
-[回导航目录](#0前端导航目录)
 
-## 4. 教程
 [回导航目录](#0前端导航目录)
+## 4. 教程
+
 
 ## 5. 资源
 ### 5.1 技术周刊
-[回导航目录](#0前端导航目录)
 
 1. [HTML5 Weekly](http://html5weekly.com/)
 2. [CSS Weekly](http://css-weekly.com/)
@@ -994,3 +993,5 @@ w3cTrain成员。
 16. [A Drip of Javascript](http://adripofjavascript.com/archive.html)
 17. [FEX 技术周刊](http://fex.baidu.com/weekly/)
 18. [奇舞周刊](http://old.75team.com/weekly/)
+
+[回导航目录](#0前端导航目录)
