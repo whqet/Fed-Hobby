@@ -1026,12 +1026,15 @@ w3cTrain成员。
 20. 饿了么大前端-[网站](https://fe.ele.me/)-[微博](http://weibo.com/elemefe)-[Github](https://github.com/elemefe/)
 21. 京东设计中心-[网站](http://jdc.jd.com/)-[微博](http://weibo.com/tencentecd)
 22. 网易用户体验设计中心-[网站](http://uedc.163.com/)
+22. 网易游戏用户体验中心-[网站](http://gux.163.com/)
 23. 大搜车前端-[博客](http://f2e.souche.com/blog/)
 24. 美团点评技术团队-[网站](http://tech.meituan.com/)
 25. 畅游视觉设计中心-[网站](http://vc.changyou.com/)-[微博](http://weibo.com/cyouvc)-[站酷](http://www.zcool.com.cn/u/945336)-[花瓣](http://huaban.com/cyvc/)
 26. 凹凸实验室-[网站](https://aotu.io/index.html)-[Twitter](https://twitter.com/o2circle)-[Github](https://github.com/o2team)
+27. 新浪UED-[网站](http://ued.sina.com.cn/)-[微博](http://weibo.com/3972678433/)
 
 [回导航目录](#0前端导航目录)
+
 ## 3. 社区
 
 [回导航目录](#0前端导航目录)
