@@ -18,6 +18,7 @@
 5. [资源](#5-资源)
 	1. [前端网址导航](#51-前端网址导航)
 	2. [前端资源聚合](#52-前端资源聚合)
+6. 
 	
 
 ## 1. 大神 
@@ -970,6 +971,8 @@
 26. 凹凸实验室-[网站](https://aotu.io/index.html)-[Twitter](https://twitter.com/o2circle)-[Github](https://github.com/o2team)
 27. 新浪UED-[网站](http://ued.sina.com.cn/)-[微博](http://weibo.com/3972678433/)
 28. 百姓网前端-[博客](https://github.com/baixing/FE-Blog/issues)-[Github](https://github.com/baixing)
+29. [繁星UED](http://ued.fanxing.com/)
+
 
 [回导航目录](#0前端导航目录)
 
@@ -1038,6 +1041,7 @@
 33. [前端里](http://www.yyyweb.com/)
 33. [F2E](http://f2e.im/)
 34. [Geek](http://geek.csdn.net/frontend)
+35. [伯乐在线](http://web.jobbole.com/)
 
 [回导航目录](#0前端导航目录)
 
@@ -1132,6 +1136,12 @@
 41. [彬go](http://blog.bingo929.com/)
 41. [成事博客](http://blog.swine123.com/)
 41. [贤心](http://sentsin.com/all/)
+42. [Benjamin-专注前端开发和用户体验](http://www.zuojj.com/)
+43. [Hugo Web前端开发](http://www.ghugo.com/)
+44. [当耐特](http://www.cnblogs.com/iamzhanglei/)
+45. [web骇客](http://www.webhek.com/)
+46. [Blog@达仔](http://blog.zhangjd.me/)
+47. [I code it](http://icodeit.org/)
 
 [回导航目录](#0前端导航目录)
 
@@ -1150,6 +1160,8 @@
 5. [前端网址导航](http://www.daqianduan.com/nav)
 6. [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/)
 7. [wwwhere](http://wwwhere.io/)
+8. [web前端资源网-前端导航](http://www.58img.com/hao)
+9. [前端笔记-前端导航](http://www.w3cmark.com/mark/)
 
 ### 5.2 前端资源聚合
 
