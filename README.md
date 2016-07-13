@@ -10,10 +10,13 @@
 	1. [国际](#11-国际)
 	2. [国内](#12-国内)
 2. [团队](#2-团队)
-3. [社区](#3-社区)
+3. [社区](#3-资讯)
+	1. [技术周刊](#31-技术周刊)
+	2. [技术社区](#32-技术社区)
+	3. [技术博客](#33-技术博客)
 4. [教程](#4-教程)
 5. [资源](#5-资源)
-	1. [技术周刊](#51-技术周刊)
+	
 
 ## 1. 大神 
 
@@ -967,14 +970,9 @@
 
 [回导航目录](#0前端导航目录)
 
-## 3. 社区
+## 3. 资讯
 
-[回导航目录](#0前端导航目录)
-## 4. 教程
-
-
-## 5. 资源
-### 5.1 技术周刊
+### 3.1 技术周刊
 
 1. [HTML5 Weekly](http://html5weekly.com/)
 2. [CSS Weekly](http://css-weekly.com/)
@@ -997,4 +995,50 @@
 
 [回导航目录](#0前端导航目录)
 
-### 5.2 
+### 3.2 技术社区
+
+1. [W3](https://www.w3.org/)
+2. [MDN](https://developer.mozilla.org/zh-CN/)
+3. [A List Apart](http://alistapart.com/)
+4. [Hacker News](https://news.ycombinator.com/)
+5. [Stack Overflow](http://stackoverflow.com/)
+6. [Code Project](http://www.codeproject.com/)
+7. [Echo JS](http://www.echojs.com/)
+8. [Quora](http://www.quora.com/)
+9. [Designer News](https://www.designernews.co/)
+10. [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+11. [Sitepoint](http://www.sitepoint.com/)
+12. [Smashing Magazine](http://www.smashingmagazine.com/)
+13. [Level Up Tuts](http://leveluptuts.com/)
+14. [Codrops](http://tympanus.net/codrops/)
+15. [CSS-Tricks](http://css-tricks.com/)
+16. [Tuts+](http://tutsplus.com/)
+17. [Web Design Ledger](http://webdesignledger.com/)
+18. [Web3Canvas](http://web3canvas.com/)
+19. [Tutorialzine](http://tutorialzine.com/)
+20. [HTML5 Rocks](http://www.html5rocks.com/en/)
+21. [w3ctech](http://www.w3ctech.com/)
+22. [w3cplus](http://www.w3cplus.com/)
+22. [前端乱炖](http://www.html-js.com/)
+23. [WEB前端开发](http://www.css88.com/)
+24. [奇舞团](http://www.75team.com/)
+25. [淘宝前端](http://taobaofed.org/)
+26. [凹凸实验室](https://aotu.io)
+27. [百度FEX](http://fex.baidu.com/)
+28. [AlloyTeam](http://www.alloyteam.com/)
+29. [Div.IO](http://div.io/#/welcome)
+30. [知乎](https://www.zhihu.com/)
+31. [segmentfault](https://segmentfault.com/)
+32. [w3cfuns](http://www.w3cfuns.com/)
+33. [前端里](http://www.yyyweb.com/)
+
+### 3.3 技术博客
+
+1. 
+
+[回导航目录](#0前端导航目录)
+## 4. 教程
+
+
+## 5. 资源
+
