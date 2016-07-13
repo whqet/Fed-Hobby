@@ -1056,6 +1056,7 @@
 16. [winter-cn博客园](http://winter-cn.cnblogs.com/)
 17. [十年踪迹的博客](https://www.h5jun.com/)
 17. [前端观察](https://www.qianduan.net/)
+18. [CSS森林](http://blog.cssforest.org/)
 18. [Jerry Qu](https://imququ.com/)
 18. [张鑫旭](http://www.zhangxinxu.com/wordpress/)
 18. [小胡子哥](http://www.barretlee.com/blog/)
@@ -1064,6 +1065,8 @@
 19. [张云龙博客](https://github.com/fouber/blog)
 20. [CSS探索之旅](http://blog.doyoe.com/)
 20. [朱文龙的自留地](https://www.zhuwenlong.com/)
+20. [三水清](http://js8.in/)
+20. [进步博客](http://www.topcss.org/)
 20. [webzhao](https://webzhao.me/)
 21. [阿肆](https://www.ivershuo.com/)
 22. [大路小兵的博客](https://cooxa.com/)
@@ -1074,6 +1077,7 @@
 28. [吕大豹](http://www.cnblogs.com/lvdabao/)
 29. [Dron 博客](http://ucren.com/blog/)
 30. [崔凯 ck's blog](http://uicss.cn/)
+30. [前端开发武方博](http://www.wufangbo.com/)
 31. [苏洋博客](http://www.soulteary.com/)
 32. [雨夜带刀's Blog](http://stylechen.com/)
 33. [衣服自己洗](http://www.withonly.com/)
@@ -1084,6 +1088,7 @@
 38. [前端小武](https://xuexb.com/)
 39. [Steven's Club](https://g.32ph.com/)
 40. [剧中人的个人博客](http://bh-lay.com/)
+40. [余果](http://yuguo.us/weblog/)
 41. 正在更新中，请**watch**
 
 [回导航目录](#0前端导航目录)
