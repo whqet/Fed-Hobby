@@ -1149,6 +1149,7 @@
 4. [前端收藏夹](http://collect.w3ctrain.com/)
 5. [前端网址导航](http://www.daqianduan.com/nav)
 6. [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/)
+7. [wwwhere](http://wwwhere.io/)
 
 ### 5.2 前端资源聚合
 
