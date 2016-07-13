@@ -1027,6 +1027,7 @@
 27. [百度FEX](http://fex.baidu.com/)
 28. [AlloyTeam](http://www.alloyteam.com/)
 29. [Div.IO](http://div.io/#/welcome)
+30. [前端圈](http://fequan.com/)
 30. [知乎](https://www.zhihu.com/)
 31. [segmentfault](https://segmentfault.com/)
 32. [w3cfuns](http://www.w3cfuns.com/)
@@ -1037,12 +1038,60 @@
 
 ### 3.3 技术博客
 
-1. 
+1. [David Walsh Blog](http://davidwalsh.name/)
+2. [Scotch Development](http://scotch.io/)
+3. [Codyhouse](http://codyhouse.co/)
+4. [Hugo Giraudel Blog](http://hugogiraudel.com/blog/)
+5. [LEA VEROU](http://lea.verou.me/)
+6. [The New Code](http://thenewcode.com/)
+7. [Una Kravets' Blog](https://una.im/)
+8. [jlord](http://jlord.us/)
+9. [玉伯博客](https://github.com/lifesinger/blog/issues)
+10. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+11. [司徒正美-Ruby's Louvre](http://www.cnblogs.com/rubylouvre/)
+12. [尤老师EVAN YOU](http://blog.evanyou.me/)
+13. [汤姆大叔的博客](http://www.cnblogs.com/TomXu/)
+14. [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
+15. [囧克斯](http://jiongks.name/)
+16. [winter-cn博客园](http://winter-cn.cnblogs.com/)
+17. [十年踪迹的博客](https://www.h5jun.com/)
+17. [前端观察](https://www.qianduan.net/)
+18. [Jerry Qu](https://imququ.com/)
+18. [张鑫旭](http://www.zhangxinxu.com/wordpress/)
+18. [小胡子哥](http://www.barretlee.com/blog/)
+18. [冰山一角 - berg’s blog](http://cnberg.div.io/)
+18. [颜海镜博客](http://yanhaijing.com/)
+19. [张云龙博客](https://github.com/fouber/blog)
+20. [CSS探索之旅](http://blog.doyoe.com/)
+20. [朱文龙的自留地](https://www.zhuwenlong.com/)
+20. [webzhao](https://webzhao.me/)
+21. [阿肆](https://www.ivershuo.com/)
+22. [大路小兵的博客](https://cooxa.com/)
+23. [为之漫笔](http://lisongfeng.cn/)
+24. [李成银的博客](http://www.welefen.com/)
+25. [某瓜要爱上总结](http://melonh.com/)
+27. [墨尘](https://imochen.com/)
+28. [吕大豹](http://www.cnblogs.com/lvdabao/)
+29. [Dron 博客](http://ucren.com/blog/)
+30. [崔凯 ck's blog](http://uicss.cn/)
+31. [苏洋博客](http://www.soulteary.com/)
+32. [雨夜带刀's Blog](http://stylechen.com/)
+33. [衣服自己洗](http://www.withonly.com/)
+34. [于江水](http://yujiangshui.com/)
+35. [码疯窝](http://www.madcoder.cn/)
+36. [Kai.Ma](http://www.cnblogs.com/kaima/)
+37. [程序员小辉](http://www.xiaohui.com/)
+38. [前端小武](https://xuexb.com/)
+39. [Steven's Club](https://g.32ph.com/)
+40. [剧中人的个人博客](http://bh-lay.com/)
+41. 正在更新中，请**watch**
 
 [回导航目录](#0前端导航目录)
 
 ## 4. 教程
 
+正在更新中，请**watch**
 
 ## 5. 资源
 
+正在更新中，请**watch**
