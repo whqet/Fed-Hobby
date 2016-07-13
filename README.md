@@ -6,14 +6,16 @@
 
 ## 0.前端导航目录
 
-- [大神](#1-大神)
-	- [国际大神](#11-国际大神)
-	- [国内大神](#12-国内大神)
-- [团队](#2-团队)
-- [社区](#3-社区)
-- [教程](#4-教程)
-- [资源](#5-资源)
-	- [技术周刊](#51-技术周刊)
+1. [大神](#1-大神)
+	1. [国际](#11-国际)
+	2. [国内](#12-国内)
+2. [团队](#2-团队)
+	1. [国际](#21-国际)
+	2. [国内](#22-国内)
+3. [社区](#3-社区)
+4. [教程](#4-教程)
+5. [资源](#5-资源)
+	1. [技术周刊](#51-技术周刊)
 
 ## 1. 大神 
 
@@ -25,7 +27,7 @@
 
 提供信息只为学习交流之用，如有冒犯，请见谅；如果涉及隐私或不愿公开内容，请联系我。
 
-### 1.1 国际大神
+### 1.1 国际
 1. [Chris Coyier](http://chriscoyier.net/)
 
 	[Codepen](http://codepen.io/)创始人，[css-tricks](http://css-tricks.com/)站长。
@@ -342,11 +344,18 @@
 	[Github](https://github.com/jlord)、
 	邮箱： to.jlord@gmail.com
 	
-30. 
+30. [Jeremy Ashkenas](http://ashkenas.com/)
+
+	Jeremy Ashkenas,纽约时报图形编辑，[Underscore.js](http://underscorejs.org/)、[backbone.js](http://backbonejs.org/)、[CoffeeScript](http://coffeescript.org/)的主要作者。
+	
+	联系方式：
+	[Twitter](http://www.twitter.com/jashkenas)、
+	[Github](https://github.com/jashkenas)、
+	邮箱： jashkenas@gmail.com
 	
 [回导航目录](#0前端导航目录)
 
-### 1.2 国内大神
+### 1.2 国内
 
 1. [玉伯](https://github.com/lifesinger/blog/issues)
 
@@ -891,6 +900,19 @@
 [回导航目录](#0前端导航目录)
 
 ## 2. 团队
+
+### 2.1 国际
+
+1. Twitter-[网站](http://opensource.twitter.com/)-[Github](https://github.com/twitter)
+2. Twitter University-[网站](https://university.twitter.com/)-[Github](https://github.com/twitter-university)
+3. Github-[网站](https://github.com/about)-[Github](https://github.com/github)
+4. Google-[网站](https://developers.google.com/)-[Github](https://github.com/google)
+5. Facebook-[网站](https://code.facebook.com/projects/)-[Github](https://github.com/facebook)
+6. Angular-[网站](Angular)-[Github](https://github.com/angular)
+7. 
+
+
+### 2.2 国内
 
 1. 360奇舞团-[网站](http://www.75team.com/)-[微博](http://www.weibo.com/75Team)-[Github](https://github.com/75team)
 	
