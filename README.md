@@ -285,8 +285,65 @@
 	[Github](http://github.com/necolas)、
 	[Linkedin](http://www.linkedin.com/in/nicolasgallagher)、
 	邮箱：nicolas@nicolasgallagher.com
+	
+24. [TJ Holowaychuk](http://tjholowaychuk.com/)
+	
+	TJ Holowaychuk ，程序员兼艺术家，Koa、Co、Express、jade、mocha、node-canvas、commander.js 等知名开源项目的创建和贡献者。
+	
+	联系方式：
+	[Twitter](http://twitter.com/tjholowaychuk)、
+	[Github](http://github.com/tj)、
+	[Blog](http://tjholowaychuk.com/blog/)、
+	[Instagram](http://www.instagram.com/tjholowaychuk2)、
+	邮箱：tj@tjholowaychuk.com
+	
+25. [Addy Osmani](http://addyosmani.com/)
 
+	Addy Osmani ，谷歌前端开发工程师，创建了 TodoMVC、jQuery UI Bootstrap、jQuery Plugin Patterns 和 Backbone Paginator，出版了《Learning JavaScript Design Patterns》和《Developing Backbone.js Applications》两本技术书籍，而且还是著名的 jQuery、Modernizr 以及Backbone.js 框架的贡献者。
+	
+	联系方式：
+	[Twitter](https://twitter.com/addyosmani)、
+	[Github](https://github.com/addyosmani)、
+	[Youtube](https://developers.google.com/web/shows/ttt/)、
+	邮箱：addyosmani@gmail.com
+	
+26. [Douglas Crockford](http://www.crockford.com/)
 
+	Douglas Crockford是JavaScript开发社区最知名的权威，是JSON、JSLint、JSMin和ADSafe之父，是《JavaScript: The Good Parts》的作者。他同时也服务于ECMA的JavaScript2.0技术委员会（TC39）。
+	
+	联系方式：
+	[Github](https://github.com/douglascrockford)、
+	[Google+](https://plus.google.com/u/0/+DouglasCrockfordEsq)、
+	邮箱：douglas@crockford.com
+	
+27. [Mike Bostock](http://bost.ocks.org/)
+	
+	Mike Bostock，纽约时报图形编辑，知名可视化库 [D3.js](http://d3.org/)的主要作者。
+	
+	联系方式：
+	[Twitter](https://twitter.com/mbostock)、
+	[Github](https://github.com/mbostock)、
+	邮箱：mike@ocks.org
+	
+28. [Mr.doob](http://mrdoob.com/)
+
+	Mr.doob (Ricardo Cabello Migue) 是JS三维模型库[three.js](http://threejs.org/)，  [Code Editor](http://www.chromeexperiments.com/detail/code-editor/) 的作者。
+	
+	联系方式：
+	[Twitter](http://twitter.com/mrdoob)、
+	[Github](https://github.com/mrdoob)、
+
+29. [Jessica Lord](https://jlord.github.io/)
+
+	Jessica Lord， 2013年5月份加入Github设计团队。是开源项目sheetsee.js的作者。
+	
+	联系方式：
+	[Twitter](http://www.twitter.com/jllord)、
+	[Github](https://github.com/jlord)、
+	邮箱： to.jlord@gmail.com
+	
+30. 
+	
 [回导航目录](#0前端导航目录)
 
 ### 1.2 国内大神
