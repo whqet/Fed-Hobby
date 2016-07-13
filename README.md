@@ -26,46 +26,40 @@
 提供信息只为学习交流之用，如有冒犯，请见谅；如果涉及隐私或不愿公开内容，请联系我。
 
 ### 1.1 国际大神
-[回导航目录](#0前端导航目录)
+1. [Chris Coyier](http://chriscoyier.net/)
 
-#### 1.[Chris Coyier](http://chriscoyier.net/)
+	[Codepen](http://codepen.io/)创始人，[css-tricks](http://css-tricks.com/)站长。
 
-[Codepen](http://codepen.io/)创始人，[css-tricks](http://css-tricks.com/)站长。
+	联系方式：
+	[CodePen](//codepen.io/chriscoyier)、
+	[Dribbble](//dribbble.com/chriscoyier)、
+	[Twitter](//twitter.com/chriscoyier)、
+	[GitHub](//github.com/chriscoyier)、
+	[Instagram](//instagram.com/chriscoyier)
 
-联系方式：
-[CodePen](//codepen.io/chriscoyier)、
-[Dribbble](//dribbble.com/chriscoyier)、
-[Twitter](//twitter.com/chriscoyier)、
-[GitHub](//github.com/chriscoyier)、
-[Instagram](//instagram.com/chriscoyier)
 
--------------------
+2. [Sara Soueidan](https://sarasoueidan.com/)
 
-#### 2.[Sara Soueidan](https://sarasoueidan.com/)
+	2015 net awards(net杂志的年度颁奖盛典)的[年度开发者](https://thenetawards.com/longlist/developer/)，2015 O’Reilly Web Platform Awards（O'Reilly，著名的IT图书出版机构）,著名的前端开发者、作者、演讲者，主要关注HTML5, SVG, CSS and JavaScript等。
 
-2015 net awards(net杂志的年度颁奖盛典)的[年度开发者](https://thenetawards.com/longlist/developer/)，2015 O’Reilly Web Platform Awards（O'Reilly，著名的IT图书出版机构）,著名的前端开发者、作者、演讲者，主要关注HTML5, SVG, CSS and JavaScript等。
+	联系方式：
+	[Github](https://github.com/SaraSoueidan)、
+	[Codrops](http://tympanus.net/codrops/author/sarasoueidan/)、
+	[A List Apart](http://alistapart.com/author/SaraSoueidan)、
+	[Dev.Opera](https://dev.opera.com/authors/sara-soueidan/)、
+	[Twitter](http://twitter.com/SaraSoueidan)、
+	[Google+](https://plus.google.com/115621441131126533845/posts)
 
-联系方式：
-[Github](https://github.com/SaraSoueidan)、
-[Codrops](http://tympanus.net/codrops/author/sarasoueidan/)、
-[A List Apart](http://alistapart.com/author/SaraSoueidan)、
-[Dev.Opera](https://dev.opera.com/authors/sara-soueidan/)、
-[Twitter](http://twitter.com/SaraSoueidan)、
-[Google+](https://plus.google.com/115621441131126533845/posts)
+3. [Hugo Giraudel](http://hugogiraudel.com/)
 
-------------------
+	知名的SASS专家，2015 net awards(net杂志的年度颁奖盛典)的[年度开发者](https://thenetawards.com/longlist/developer/)。法国人，现居德国柏林。
 
-#### 3.[Hugo Giraudel](http://hugogiraudel.com/)
+	联系方式：
+	[Github](https://github.com/HugoGiraudel)、
+	[Twitter](http://twitter.com/HugoGiraudel)、
+	[Sitepoint](https://www.sitepoint.com/author/hgiraudel/)、
+	[Google+](https://plus.google.com/101697878480386449961)
 
-知名的SASS专家，2015 net awards(net杂志的年度颁奖盛典)的[年度开发者](https://thenetawards.com/longlist/developer/)。法国人，现居德国柏林。
-
-联系方式：
-[Github](https://github.com/HugoGiraudel)、
-[Twitter](http://twitter.com/HugoGiraudel)、
-[Sitepoint](https://www.sitepoint.com/author/hgiraudel/)、
-[Google+](https://plus.google.com/101697878480386449961)
-
--------------------
 
 #### 4.[Lea Verou](http://lea.verou.me/)
 
