@@ -301,7 +301,7 @@
 	[Github](https://github.com/lifesinger)、
 	邮箱：lifesinger@gmail.com
 
-2.[阮一峰](http://www.ruanyifeng.com/blog/)
+2. [阮一峰](http://www.ruanyifeng.com/blog/)
 
 	70后，在上海出生和长大，大学读经济学。工作了几年，又去读了世界经济的研究生，毕业后，在上海一所本地高校当了老师，教财经类的课程。最近，去了支付宝的前端团队，在玉伯负责的"体验技术部"工作，目前主要从事JavaScript和Node.js的开发。
 	
