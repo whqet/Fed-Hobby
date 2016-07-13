@@ -10,8 +10,6 @@
 	1. [国际](#11-国际)
 	2. [国内](#12-国内)
 2. [团队](#2-团队)
-	1. [国际](#21-国际)
-	2. [国内](#22-国内)
 3. [社区](#3-社区)
 4. [教程](#4-教程)
 5. [资源](#5-资源)
@@ -900,19 +898,6 @@
 [回导航目录](#0前端导航目录)
 
 ## 2. 团队
-
-### 2.1 国际
-
-1. Twitter-[网站](http://opensource.twitter.com/)-[Github](https://github.com/twitter)
-2. Twitter University-[网站](https://university.twitter.com/)-[Github](https://github.com/twitter-university)
-3. Github-[网站](https://github.com/about)-[Github](https://github.com/github)
-4. Google-[网站](https://developers.google.com/)-[Github](https://github.com/google)
-5. Facebook-[网站](https://code.facebook.com/projects/)-[Github](https://github.com/facebook)
-6. Angular-[网站](Angular)-[Github](https://github.com/angular)
-7. 
-
-
-### 2.2 国内
 
 1. 360奇舞团-[网站](http://www.75team.com/)-[微博](http://www.weibo.com/75Team)-[Github](https://github.com/75team)
 	
