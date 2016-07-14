@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title></title>
+  <style>
+    html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+
+    body {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+    }
+
+    svg#mindmap {
+      width: 100%;
+      height: 100%;
+    }
+
+    #mindmap .markmap-depth-0 image,
+    #mindmap .markmap-depth-1 image,
+    #mindmap .markmap-depth-2 image{
+      width: 30px;
+      height: 30px;
+    }
+
+    #mindmap .markmap-depth-3 image,
+    #mindmap .markmap-depth-4 image{
+      width: 30px;
+      height: 15px;
+    }
+    .opts{
+      position:fixed;
+      bottom: 0;
+      right: 0;
+      margin: 0;
+      padding: 3px;
+      color: #ccc;
+      font-size: 14px;
+      background-color: #fff;
+    }
+    .opts a{
+      color: #ccc;
+    }
+    .opts a:hover{
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+<svg id="mindmap"></svg>
+<p class="opts">scroll to zoom | <a id="J_expand" href="javascript:;">expand all</a></p>
+</body>
+</html>
