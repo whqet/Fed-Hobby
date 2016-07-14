@@ -9,7 +9,7 @@ var markdown = require('raw!./README.md');
 var data = parse(markdown);
 
 var m = markmap('svg#mindmap', transform(data), {
-  preset : 'colorful2',
+  preset: 'colorful2',
   textIndent: 40,
   autoFit: false,
   zoomTranslate: [100, 0],
