@@ -964,6 +964,7 @@
 21. 京东设计中心-[网站](http://jdc.jd.com/)-[微博](http://weibo.com/tencentecd)
 22. 网易用户体验设计中心-[网站](http://uedc.163.com/)
 22. 网易游戏用户体验中心-[网站](http://gux.163.com/)
+22. 网易杭州前端技术部-[微博](http://weibo.com/nehzwd)-[Github](https://github.com/NetEaseWD)
 23. 大搜车前端-[博客](http://f2e.souche.com/blog/)
 24. 美团点评技术团队-[网站](http://tech.meituan.com/)
 25. 畅游视觉设计中心-[网站](http://vc.changyou.com/)-[微博](http://weibo.com/cyouvc)-[站酷](http://www.zcool.com.cn/u/945336)-[花瓣](http://huaban.com/cyvc/)
@@ -1041,6 +1042,7 @@
 33. [F2E](http://f2e.im/)
 34. [Geek](http://geek.csdn.net/frontend)
 35. [伯乐在线](http://web.jobbole.com/)
+36. [W3Cways](http://www.w3cways.com/)
 
 [回导航目录](#0前端导航目录)
 
@@ -1149,6 +1151,8 @@
 
 正在更新中，请**watch**
 
+[回导航目录](#0前端导航目录)
+
 ## 5. 资源
 
 ### 5.1 前端网址导航
@@ -1163,6 +1167,8 @@
 8. [web前端资源网-前端导航](http://www.58img.com/hao)
 9. [前端笔记-前端导航](http://www.w3cmark.com/mark/)
 
+[回导航目录](#0前端导航目录)
+
 ### 5.2 前端资源聚合
 
 0. [淘宝前端技术图谱](https://github.com/taobaofed/awesome-fed)
@@ -1171,6 +1177,7 @@
 3. [Web前端技术栈](https://github.com/unruledboy/WebFrontEndStack)
 4. [前端入门方法](https://github.com/qiu-deqing/FE-learning)
 5. [前端知识分享](https://github.com/hehongwei44/Project-FE)
+5. [前端开发指南](https://github.com/icepy/Front-End-Develop-Guide)
 6. [前端收集](https://github.com/foru17/front-end-collect)
 7. [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 8. [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
@@ -1179,4 +1186,6 @@
 11. [CSS 资源大全中文版](https://github.com/jobbole/awesome-css-cn)
 12. [awesome-pure-css-no-javascript](https://github.com/Zhangjd/awesome-pure-css-no-javascript)
 
-### 5.3 持续更新中，请**star**、**watch**。
+[回导航目录](#0前端导航目录)
+
+持续更新中，请**star**、**watch**。
