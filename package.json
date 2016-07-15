@@ -1,6 +1,6 @@
 {
   "name": "fed-hobby",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "d3": "~3.5.16",
     "enhanced-markmap": "0.0.10",
@@ -11,7 +11,6 @@
     "raw-loader": "~0.5.1",
     "style-loader": "~0.13.0",
     "webpack": "^1.13.1",
-    "webpack-dev-server": "~1.14.1",
     "webpack-html-plugin": "~0.1.1"
   }
 }
