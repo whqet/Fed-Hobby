@@ -1,10 +1,6 @@
 {
-  "name": "awesome-fed",
-  "version": "0.0.1",
-  "scripts": {
-    "start": "NODE_ENV=local node scripts/start.js",
-    "build": "NODE_ENV=production webpack -p --progress --colors"
-  },
+  "name": "fed-hobby",
+  "version": "1.0.1",
   "dependencies": {
     "d3": "~3.5.16",
     "enhanced-markmap": "0.0.10",
