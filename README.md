@@ -1191,8 +1191,4 @@
 
 ### javascript
 
-
-正在更新中，请**watch**
-
-
 持续更新中，请**star**、**watch**。
