@@ -1158,17 +1158,4 @@
 *  [CSS 资源大全中文版](https://github.com/jobbole/awesome-css-cn)
 *  [awesome-pure-css-no-javascript](https://github.com/Zhangjd/awesome-pure-css-no-javascript)
 
-## 知识
-### html
-
-
-### css
-
-
-### javascript
-
-
-正在更新中，请**watch**
-
-
 持续更新中，请**star**、**watch**。
