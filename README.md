@@ -24,10 +24,7 @@
 4. [资源](#资源)
 	1. [网址导航](#网址导航)
 	2. [资源聚合](#资源聚合)
-5. [知识](#知识)
-	1. [html](#html)
-	2. [css](#css)
-	3. [javascript](#)
+5. [阅读列表](#阅读列表)
 
 
 ## 大神 
@@ -1155,7 +1152,7 @@
 *  [学UI网](http://www.xueui.cn/)
 
 ## 资源
-### 前端网址导航
+### 网址导航
 *  [whycss](http://whycss.com/)
 *  [F2E前端导航](http://f2e.im/static/pages/nav/index.html)
 *  [轩枫阁前段资源聚合](http://www.xuanfengge.com/nav/)
@@ -1166,7 +1163,7 @@
 *  [web前端资源网-前端导航](http://www.58img.com/hao)
 *  [前端笔记-前端导航](http://www.w3cmark.com/mark/)
 
-### 前端资源聚合
+### 资源聚合
 *  [淘宝前端技术图谱](https://github.com/taobaofed/awesome-fed)
 *  聂微东[大前端的瑞士军刀](https://github.com/nieweidong/fetool#blogs)
 *  朴灵[前端技能汇总](https://github.com/JacksonTian/fks)
@@ -1182,14 +1179,6 @@
 *  [CSS 资源大全中文版](https://github.com/jobbole/awesome-css-cn)
 *  [awesome-pure-css-no-javascript](https://github.com/Zhangjd/awesome-pure-css-no-javascript)
 
-## 知识
-### html
-#### html简介
-#### html语法
-
-### css
-#### css简介
-
-### javascript
+## 阅读列表
 
 持续更新中，请**star**、**watch**。
