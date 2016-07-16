@@ -4,7 +4,7 @@ var markmap = require('enhanced-markmap/view.mindmap');
 var parse = require('enhanced-markmap/parse.markdown');
 var transform = require('enhanced-markmap/transform.headings');
 
-var markdown = require('raw!../md/README.md');
+var markdown = require('raw!../README.md');
 
 var data = parse(markdown);
 
