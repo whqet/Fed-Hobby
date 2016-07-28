@@ -980,6 +980,7 @@
 
 ## 资讯
 ### 技术周刊
+#### 国外
 *  [HTML5 Weekly](http://html5weekly.com/)
 *  [CSS Weekly](http://css-weekly.com/)
 *  [JavaScript Weekly](http://javascriptweekly.com/)
@@ -997,11 +998,13 @@
 *  [Web Development Reading List](https://wdrl.info/)
 *  [A Drip of Javascript](http://adripofjavascript.com/archive.html)
 *  [Pony Foo Weekly](https://ponyfoo.com/weekly)
+#### 国外
 *  [FEX 技术周刊](http://fex.baidu.com/weekly/)
 *  [奇舞周刊](http://old.75team.com/weekly/)
 *  [前端技术分享周刊](https://github.com/heicx/FE-Article)
 
 ### 技术社区
+#### 国外
 *  [W3](https://www.w3.org/)
 *  [MDN](https://developer.mozilla.org/zh-CN/)
 *  [A List Apart](http://alistapart.com/)
@@ -1022,6 +1025,7 @@
 *  [Web3Canvas](http://web3canvas.com/)
 *  [Tutorialzine](http://tutorialzine.com/)
 *  [HTML5 Rocks](http://www.html5rocks.com/en/)
+#### 国内
 *  [w3ctech](http://www.w3ctech.com/)
 *  [w3cplus](http://www.w3cplus.com/)
 *  [前端乱炖](http://www.html-js.com/)
@@ -1043,6 +1047,7 @@
 *  [W3Cways](http://www.w3cways.com/)
 
 ### 技术博客
+#### 国外
 *  [David Walsh Blog](http://davidwalsh.name/)
 *  [Scotch Development](http://scotch.io/)
 *  [Codyhouse](http://codyhouse.co/)
@@ -1052,6 +1057,7 @@
 *  [Una Kravets' Blog](https://una.im/)
 *  [Pony Foo](https://ponyfoo.com/)
 *  [jlord](http://jlord.us/)
+#### 国内
 *  [玉伯博客](https://github.com/lifesinger/blog/issues)
 *  [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 *  [司徒正美-Ruby's Louvre](http://www.cnblogs.com/rubylouvre/)
