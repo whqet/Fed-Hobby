@@ -332,6 +332,38 @@
 	[Twitter](http://www.twitter.com/jashkenas)、
 	[Github](https://github.com/jashkenas)、
 	邮箱： jashkenas@gmail.com
+	
+*  [Nicolás Bevacqua](https://ponyfoo.com/about)
+
+	Nicolás Bevacqua，知名前端，《JavaScript Application Design》作者，技术博客作家，会议演讲者。
+	
+	联系方式：
+	[Twiitter](https://twitter.com/nzgb)、
+	[Github](https://github.com/bevacqua)、
+	[Stack Overflow](https://stackoverflow.com/users/389745/bevacqua)、
+	[Blog](https://ponyfoo.com/)、
+	邮箱：hello@ponyfoo.com
+	
+*  [Ire Aderinokun](http://ireaderinokun.com/)
+
+	Ire Aderinokun，德国的女UI设计师和前端工程师，技术作家、布道者。
+	
+	联系方式：
+	[Twiitter](http://www.twitter.com/ireaderinokun)、
+	[Github](http://www.github.com/ireade)、
+	[Blog](http://bitsofco.de/)、
+	[Medium](https://medium.com/@ireade)、
+	邮箱：ire@ireaderinokun.com
+	
+*  [Jeremy Thomas](http://jgthms.com)
+
+	Jeremy Thomas，来自法国波尔图的前端设计师，现居英国伦敦，现为[improbable](https://www.improbable.io/)工作，著有免费网页学习教程[Marksheet](http://marksheet.io/)。
+	
+	联系方式：
+	[Twiitter](https://twitter.com/jgthms)、
+	[Github](https://github.com/jgthms)、
+	[Instagram](https://instagram.com/jgthms)、
+	邮箱：bbxdesign@gmail.com 
 
 ### 国内
 
@@ -964,6 +996,7 @@
 *  [Mobile Web Weekly](http://mobilewebweekly.co/)
 *  [Web Development Reading List](https://wdrl.info/)
 *  [A Drip of Javascript](http://adripofjavascript.com/archive.html)
+*  [Pony Foo Weekly](https://ponyfoo.com/weekly)
 *  [FEX 技术周刊](http://fex.baidu.com/weekly/)
 *  [奇舞周刊](http://old.75team.com/weekly/)
 *  [前端技术分享周刊](https://github.com/heicx/FE-Article)
@@ -1017,6 +1050,7 @@
 *  [LEA VEROU](http://lea.verou.me/)
 *  [The New Code](http://thenewcode.com/)
 *  [Una Kravets' Blog](https://una.im/)
+*  [Pony Foo](https://ponyfoo.com/)
 *  [jlord](http://jlord.us/)
 *  [玉伯博客](https://github.com/lifesinger/blog/issues)
 *  [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
