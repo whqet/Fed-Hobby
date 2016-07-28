@@ -364,6 +364,27 @@
 	[Stack Overflow](https://stackoverflow.com/users/389745/bevacqua)、
 	[Blog](https://ponyfoo.com/)、
 	邮箱：hello@ponyfoo.com
+	
+*  [Ire Aderinokun](http://ireaderinokun.com/)
+
+	Ire Aderinokun，德国的女UI设计师和前端工程师，技术作家、布道者。
+	
+	联系方式：
+	[Twiitter](http://www.twitter.com/ireaderinokun)、
+	[Github](http://www.github.com/ireade)、
+	[Blog](http://bitsofco.de/)、
+	[Medium](https://medium.com/@ireade)、
+	邮箱：ire@ireaderinokun.com
+	
+*  [Jeremy Thomas](http://jgthms.com)
+
+	Jeremy Thomas，来自法国波尔图的前端设计师，现居英国伦敦，现为[improbable](https://www.improbable.io/)工作，著有免费网页学习教程[Marksheet](http://marksheet.io/)。
+	
+	联系方式：
+	[Twiitter](https://twitter.com/jgthms)、
+	[Github](https://github.com/jgthms)、
+	[Instagram](https://instagram.com/jgthms)、
+	邮箱：bbxdesign@gmail.com 
 
 	-----[回目录](#前端导航目录)-----
 
